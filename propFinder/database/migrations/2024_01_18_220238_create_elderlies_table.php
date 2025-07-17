@@ -1,0 +1,37 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('elderlies', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('municipality_id')->references('id')->on('municipalities');
+            $table->string('name')->nullable();
+            $table->string('institution')->nullable();
+            $table->string('type')->nullable();
+            $table->string('capacity')->nullable();
+            $table->string('license')->nullable();
+            $table->string('address')->nullable();
+            $table->string('email')->nullable();
+            $table->string('site')->nullable();
+            $table->text('phone')->nullable();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('elderlies');
+    }
+};

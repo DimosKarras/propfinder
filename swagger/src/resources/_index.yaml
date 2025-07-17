@@ -1,0 +1,25 @@
+GetFields:
+  $ref: './getFields.yaml'
+MunicipalityGeneralInfo:
+  $ref: './municipalityGeneralInfo.yaml'
+SustainabilityResults:
+  $ref: './sustainabilityResults.yaml'
+MunicipalityResults:
+  $ref: './municipalityResults.yaml'
+
+RealEstateData:
+  $ref: './realEstateData.yaml'
+BankOfGreeceData:
+  $ref: './bankOfGreeceData.yaml'
+PopulationData:
+  $ref: './populationData.yaml'
+CriminalityData:
+  $ref: './criminalityData.yaml'
+SchoolData:
+  $ref: './schoolData.yaml'
+TransportationData:
+  $ref: './transportationData.yaml'
+OtherData:
+  $ref: './otherData.yaml'
+AirPollutionData:
+  $ref: './airPollutionData.yaml'

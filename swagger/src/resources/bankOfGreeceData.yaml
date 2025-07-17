@@ -1,0 +1,65 @@
+get:
+  tags:
+    - Open Data
+  summary: Returns the Apartment Index Data.
+  description: Returns all the Bank of Greece's apartment index data from the database. Data derived from Bank of Greece.
+  operationId: GetBankOfGreeceData
+  security: []
+  responses:
+    '200':
+      description: OK
+      content:
+        application/json:
+          schema:
+            type: object
+            example: {
+              "success" : true,
+              "data" : [
+                {
+                  "year": 2010,
+                  "quarter": 1,
+                  "value": "96.00"
+                },
+                {
+                  "year": 2010,
+                  "quarter": 2,
+                  "value": "94.80"
+                },
+                {
+                  "year": 2010,
+                  "quarter": 3,
+                  "value": "91.10"
+                },
+                {
+                  "year": 2010,
+                  "quarter": 4,
+                  "value": "90.80"
+                },
+                {
+                  "year": 2011,
+                  "quarter": 1,
+                  "value": "90.00"
+                },
+                {
+                  "year": 2011,
+                  "quarter": 2,
+                  "value": "88.30"
+                },
+                {
+                  "year": 2011,
+                  "quarter": 3,
+                  "value": "87.00"
+                },
+                {
+                  "year": 2011,
+                  "quarter": 4,
+                  "value": "83.50"
+                },
+                {
+                  "year": 2012,
+                  "quarter": 1,
+                  "value": "80.90"
+                },
+              ]
+            }
+  deprecated: false

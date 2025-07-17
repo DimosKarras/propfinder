@@ -1,0 +1,48 @@
+get:
+  tags:
+    - propFinder Application
+  summary: ''
+  description: Returns the Municipalities of Athens with their unique path_id or the kind of schools.
+  operationId: GetFields
+  parameters:
+    - name: field
+      in: path
+      description: The specified field we want
+      required: true
+      style: simple
+      schema:
+        type: string
+        enum:
+          - municipalities
+          - schools
+  security: []
+  responses:
+    '200':
+      description: OK
+      content:
+        application/json:
+          schema:
+            oneOf:
+              - type: object
+                example: {
+                  "success" : true,
+                  "data" : {
+                    "path3900": "Αθηναίων",
+                    "path5722": "Αγίας Παρασκευής",
+                    "path5609": "Αγίου Δημητρίου",
+                    "path5792": "Χαϊδαρίου",
+                  }
+                }
+              - type: object
+                example: {
+                  "success" : true,
+                  "data": [
+                    "Γυμνάσια",
+                    "Δημοτικά Σχολεία",
+                    "Επαγγελματικά Λύκεια",
+                    "Λύκεια",
+                    "Νηπιαγωγεία",
+                    "Σχολικό Εργαστηριακό Κέντρο",
+                  ]
+                }
+  deprecated: false

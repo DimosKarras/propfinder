@@ -1,0 +1,6 @@
+# --------------------- PATH PARAMETERS --------------------- #
+employee:
+  $ref: './path/employee.yaml'
+objectId:
+  $ref: './path/objectId.yaml'
+# -------------------- HEADER PARAMETERS -------------------- #

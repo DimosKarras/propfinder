@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "sector": "Central Sector",
+      "municipality": "Athens",
+      "area": 39.0
+    },
+    {
+      "sector": "Central Sector",
+      "municipality": "Dafni - Ymittos",
+      "area": 2.4
+    },
+    {
+      "sector": "Central Sector",
+      "municipality": "Ilioupoli",
+      "area": 12.7
+    },
+    {
+      "sector": "Central Sector",
+      "municipality": "Vyronas",
+      "area": 9.2
+    },
+    {
+      "sector": "Central Sector",
+      "municipality": "Kaisariani",
+      "area": 7.8
+    },
+    {
+      "sector": "Central Sector",
+      "municipality": "Zografou",
+      "area": 8.5
+    },
+    {
+      "sector": "Central Sector",
+      "municipality": "Galatsi",
+      "area": 4.0
+    },
+    {
+      "sector": "Central Sector",
+      "municipality": "Philadelfia - Chalkidona",
+      "area": 3.7
+    },
+    {
+      "sector": "Western Sector",
+      "municipality": "Aigaleo",
+      "area": 6.5
+    },
+    {
+      "sector": "Western Sector",
+      "municipality": "Agia Varvara",
+      "area": 2.4
+    },
+    {
+      "sector": "Western Sector",
+      "municipality": "Chaidari",
+      "area": 22.7
+    },
+    {
+      "sector": "Western Sector",
+      "municipality": "Peristeri",
+      "area": 10.1
+    },
+    {
+      "sector": "Western Sector",
+      "municipality": "Petroupoli",
+      "area": 6.8
+    },
+    {
+      "sector": "Western Sector",
+      "municipality": "Ilion",
+      "area": 9.3
+    },
+    {
+      "sector": "Western Sector",
+      "municipality": "Agioi Anargyroi - Kamatero",
+      "area": 9.2
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Nea Ionia",
+      "area": 3.5
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Iraklio",
+      "area": 4.6
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Metamorfosi",
+      "area": 5.5
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Lykovrysi - Pefki",
+      "area": 4.1
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Kifissia",
+      "area": 35.1
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Penteli",
+      "area": 36.1
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Marousi",
+      "area": 12.9
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Vrilissia",
+      "area": 3.9
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Agia Paraskevi",
+      "area": 7.9
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Papagou - Cholargos",
+      "area": 7.3
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Chalandri",
+      "area": 10.8
+    },
+    {
+      "sector": "Northern Sector",
+      "municipality": "Filothei - Psychiko",
+      "area": 6.1
+    },
+    {
+      "sector": "Southern Sector",
+      "municipality": "Glyfada",
+      "area": 25.4
+    },
+    {
+      "sector": "Southern Sector",
+      "municipality": "Elliniko - Argyroupoli",
+      "area": 15.4
+    },
+    {
+      "sector": "Southern Sector",
+      "municipality": "Alimos",
+      "area": 5.9
+    },
+    {
+      "sector": "Southern Sector",
+      "municipality": "Agios Dimitrios",
+      "area": 5.0
+    },
+    {
+      "sector": "Southern Sector",
+      "municipality": "Nea Smyrni",
+      "area": 3.5
+    },
+    {
+      "sector": "Southern Sector",
+      "municipality": "Palaio Faliro",
+      "area": 4.6
+    },
+    {
+      "sector": "Southern Sector",
+      "municipality": "Kallithea",
+      "area": 4.8
+    },
+    {
+      "sector": "Southern Sector",
+      "municipality": "Moschato - Tavros",
+      "area": 4.5
+    }
+  ]
+}

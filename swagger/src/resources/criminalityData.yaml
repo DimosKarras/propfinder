@@ -1,0 +1,214 @@
+get:
+  tags:
+    - Open Data
+  summary: Returns Criminality Data.
+  description: Returns Criminality Data depending the query attributes (5 cases) for the Region of Attica. Data derived from the Ministry of Civil Protection.
+  operationId: GetCriminality
+  security: []
+  parameters:
+    - name: data
+      in: query
+      required: true
+      description: ''
+      style: form
+      explode: true
+      schema:
+        type: string
+        enum:
+          - all
+          - buildings
+          - vehicles
+          - heists
+    - name: year
+      in: query
+      required: true
+      description: ''
+      style: form
+      explode: true
+      schema:
+        type: string
+        enum:
+          - 2010
+          - 2011
+          - 2012
+          - 2013
+          - 2014
+          - 2015
+          - 2016
+          - 2017
+          - 2018
+          - 2019
+    - name: criminality
+      in: query
+      required: true
+      description: ''
+      style: form
+      explode: true
+      schema:
+        type: string
+        example: 'Κλοπές - Διαρρήξεις'
+  responses:
+    '200':
+      description: OK
+      content:
+        application/json:
+          schema:
+            oneOf:
+              - type: object
+                description: '?data=all&year=2010'
+                example: {
+                  "success": true,
+                  "data":  {
+                    "headers": [
+                      "Τύπος Εγκλήματος",
+                      "Αριθμός Εγκλημάτων"
+                    ],
+                    "values": [
+                      {
+                        "type": "Ανθρωποκτονίες",
+                        "number_of_crimes": 82
+                      },
+                      {
+                        "type": "Απάτες",
+                        "number_of_crimes": 1332
+                      },
+                      {
+                        "type": "Αποπλανήσεις",
+                        "number_of_crimes": null
+                      },
+                      {
+                        "type": "Αρχαιοκαπηλεία",
+                        "number_of_crimes": 23
+                      },
+                      {
+                        "type": "Βιασμοί",
+                        "number_of_crimes": 85
+                      },
+                    ]
+                  }
+                }
+              - type: object
+                description: '?data=all&criminality=Αρχαιοκαπηλεία'
+                example: {
+                  "success": true,
+                  "data": [
+                    {
+                      "year": "2010",
+                      "number_of_crimes": 23
+                    },
+                    {
+                      "year": "2011",
+                      "number_of_crimes": 16
+                    },
+                    {
+                      "year": "2012",
+                      "number_of_crimes": 13
+                    },
+                    {
+                      "year": "2013",
+                      "number_of_crimes": 14
+                    }
+                  ]
+                }
+              - type: object
+                description: 'data=buildings&year=2010'
+                example: {
+                  "success": true,
+                  "data": [
+                    {
+                      "type": "Κλοπές - Διαρρήξεις από ιχε αυτ/τα",
+                      "year": "2010",
+                      "number_of_crimes": 17950
+                    },
+                    {
+                      "type": "Κλοπές - Διαρρήξεις ιερών ναών",
+                      "year": "2010",
+                      "number_of_crimes": 57
+                    },
+                    {
+                      "type": "Κλοπές - Διαρρήξεις καταστημάτων",
+                      "year": "2010",
+                      "number_of_crimes": 6457
+                    }
+                  ]
+                }
+              - type: object
+                description: '?data=vehicles&year=2010'
+                example: {
+                  "success": true,
+                  "data": [
+                    {
+                      "type": "Κλοπές Τροχοφόρων ΙΧΕ αυτ/των",
+                      "year": "2010",
+                      "number_of_crimes": 6977
+                    },
+                    {
+                      "type": "Κλοπές Τροχοφόρων ΙΧΦ-Λεωφορείων",
+                      "year": "2010",
+                      "number_of_crimes": 1106
+                    },
+                    {
+                      "type": "Κλοπές Τροχοφόρων Λοιπών οχημάτων",
+                      "year": "2010",
+                      "number_of_crimes": 385
+                    },
+                    {
+                      "type": "Κλοπές Τροχοφόρων Μοτοποδηλάτων",
+                      "year": "2010",
+                      "number_of_crimes": 1336
+                    },
+                    {
+                      "type": "Κλοπές Τροχοφόρων Μοτοσυκλετών",
+                      "year": "2010",
+                      "number_of_crimes": 6400
+                    }
+                  ]
+                }
+              - type: object
+                description: '?data=heists&year=2010'
+                example: {
+                  "success": true,
+                  "data": [
+                    {
+                      "type": "Ληστείες Δ.Ο.Υ.",
+                      "year": "2010",
+                      "number_of_crimes": 16
+                    },
+                    {
+                      "type": "Ληστείες εντός καταστημάτων",
+                      "year": "2010",
+                      "number_of_crimes": 336
+                    },
+                    {
+                      "type": "Ληστείες εντός οικιών",
+                      "year": "2010",
+                      "number_of_crimes": 268
+                    },
+                    {
+                      "type": "Ληστείες κινητών τηλεφώνων-μικροποσών",
+                      "year": "2010",
+                      "number_of_crimes": 1233
+                    },
+                    {
+                      "type": "Ληστείες λοιπές",
+                      "year": "2010",
+                      "number_of_crimes": 1243
+                    },
+                    {
+                      "type": "Ληστείες με αρπαγή τσάντας",
+                      "year": "2010",
+                      "number_of_crimes": 546
+                    },
+                    {
+                      "type": "Ληστείες οδηγών ταξί",
+                      "year": "2010",
+                      "number_of_crimes": 64
+                    },
+                    {
+                      "type": "Ληστείες πρατηρίων υγρών καυσίμων",
+                      "year": "2010",
+                      "number_of_crimes": 84
+                    }
+                  ]
+                }
+  deprecated: false

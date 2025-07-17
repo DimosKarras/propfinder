@@ -1,0 +1,73 @@
+get:
+  tags:
+    - propFinder Application
+  summary: ''
+  description: Returns the Municipality's thorough results.
+  operationId: GetMunicipalityResults
+  parameters:
+    - name: path_id
+      in: path
+      description: The municipality's path Id
+      required: true
+      style: simple
+      schema:
+        type: string
+        example: 'path3900'
+  security: []
+  responses:
+    '200':
+      description: OK
+      content:
+        application/json:
+          schema:
+            type: object
+            example: {
+              "success" : true,
+              "data" : {
+                "O3Total": "36.27",
+                "NO2Total": "36.41",
+                "SO2Total": "0.00",
+                "PM25Total": "0.00",
+                "PM10Total": "0.00",
+                "populationTotal": {
+                  "total": 2611713,
+                  "variation": "-1.13"
+                },
+                "density": "16,499",
+                "criminalityTotal": {
+                  "total": 77147,
+                  "variation": "-14.55"
+                },
+                "realEstateTotal": {
+                  "2010": "3,973.66",
+                  "2011": "3,718.64",
+                  "2012": "3,280.68",
+                  "2013": "2,876.40",
+                  "2014": "2,606.89",
+                  "2015": "2,468.29",
+                  "2016": "2,422.23",
+                  "2017": "2,397.93",
+                  "2018": "2,464.88",
+                  "2019": "2,727.14",
+                  "2020": "2,937.38",
+                  "2021": "3,223.96",
+                  "2022": "3,669.60",
+                  "2023": "4,122.49"
+                },
+                "populationGender": {
+                  "men": 310569,
+                  "women": 332883
+                },
+                "subwayTotal": 29,
+                "taxiTotal": 46,
+                "busTotal": 1028,
+                "busDisabilityTotal": 153,
+                "preSchoolTotal": 148,
+                "primarySchoolTotal": 133,
+                "middleSchoolTotal": 51,
+                "highSchoolTotal": 42,
+                "vocationalHighSchoolTotal": 9,
+                "schoolLaboratoryCenterTotal": 2
+              }
+            }
+  deprecated: false

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "2011": [
+      {
+        "municipality": "Athens",
+        "men": 315210,
+        "women": 348836
+      },
+      {
+        "municipality": "Dafni - Ymittos",
+        "men": 15829,
+        "women": 17799
+      },
+      {
+        "municipality": "Ilioupoli",
+        "men": 37098,
+        "women": 41055
+      },
+      {
+        "municipality": "Vyronas",
+        "men": 28992,
+        "women": 32316
+      },
+      {
+        "municipality": "Kaisariani",
+        "men": 12486,
+        "women": 13972
+      },
+      {
+        "municipality": "Zografou",
+        "men": 33097,
+        "women": 37929
+      },
+      {
+        "municipality": "Galatsi",
+        "men": 28399,
+        "women": 30946
+      },
+      {
+        "municipality": "Philadelfia - Chalkidona",
+        "men": 17043,
+        "women": 18513
+      },
+      {
+        "municipality": "Aigaleo",
+        "men": 34008,
+        "women": 35938
+      },
+      {
+        "municipality": "Agia Varvara",
+        "men": 12650,
+        "women": 13900
+      },
+      {
+        "municipality": "Chaidari",
+        "men": 23245,
+        "women": 23652
+      },
+      {
+        "municipality": "Peristeri",
+        "men": 68563,
+        "women": 71418
+      },
+      {
+        "municipality": "Petroupoli",
+        "men": 28582,
+        "women": 30397
+      },
+      {
+        "municipality": "Ilion",
+        "men": 41594,
+        "women": 43199
+      },
+      {
+        "municipality": "Agioi Anargyroi - Kamatero",
+        "men": 30925,
+        "women": 31604
+      },
+      {
+        "municipality": "Nea Ionia",
+        "men": 32505,
+        "women": 34629
+      },
+      {
+        "municipality": "Iraklio",
+        "men": 23770,
+        "women": 25872
+      },
+      {
+        "municipality": "Metamorfosi",
+        "men": 14599,
+        "women": 15292
+      },
+      {
+        "municipality": "Lykovrysi - Pefki",
+        "men": 14897,
+        "women": 16256
+      },
+      {
+        "municipality": "Kifissia",
+        "men": 33389,
+        "women": 37870
+      },
+      {
+        "municipality": "Penteli",
+        "men": 16868,
+        "women": 18066
+      },
+      {
+        "municipality": "Marousi",
+        "men": 33738,
+        "women": 38595
+      },
+      {
+        "municipality": "Vrilissia",
+        "men": 14605,
+        "women": 16136
+      },
+      {
+        "municipality": "Agia Paraskevi",
+        "men": 27822,
+        "women": 31882
+      },
+      {
+        "municipality": "Papagou - Cholargos",
+        "men": 20278,
+        "women": 24261
+      },
+      {
+        "municipality": "Chalandri",
+        "men": 34743,
+        "women": 39449
+      },
+      {
+        "municipality": "Filothei - Psychiko",
+        "men": 11946,
+        "women": 15022
+      },
+      {
+        "municipality": "Glyfada",
+        "men": 41135,
+        "women": 46170
+      },
+      {
+        "municipality": "Elliniko - Argyroupoli",
+        "men": 24604,
+        "women": 26752
+      },
+      {
+        "municipality": "Alimos",
+        "men": 19663,
+        "women": 22057
+      },
+      {
+        "municipality": "Agios Dimitrios",
+        "men": 34668,
+        "women": 36626
+      },
+      {
+        "municipality": "Nea Smyrni",
+        "men": 33607,
+        "women": 39469
+      },
+      {
+        "municipality": "Palaio Faliro",
+        "men": 29429,
+        "women": 34592
+      },
+      {
+        "municipality": "Kallithea",
+        "men": 46782,
+        "women": 53859
+      },
+      {
+        "municipality": "Moschato - Tavros",
+        "men": 19440,
+        "women": 20973
+      }
+    ],
+    "2021": [
+      {
+        "municipality": "Athens",
+        "men": 310569,
+        "women": 332883
+      },
+      {
+        "municipality": "Dafni - Ymittos",
+        "men": 16118,
+        "women": 17768
+      },
+      {
+        "municipality": "Ilioupoli",
+        "men": 36445,
+        "women": 40285
+      },
+      {
+        "municipality": "Vyronas",
+        "men": 27910,
+        "women": 31224
+      },
+      {
+        "municipality": "Kaisariani",
+        "men": 12488,
+        "women": 13781
+      },
+      {
+        "municipality": "Zografou",
+        "men": 32790,
+        "women": 37084
+      },
+      {
+        "municipality": "Galatsi",
+        "men": 27715,
+        "women": 30194
+      },
+      {
+        "municipality": "Philadelfia - Chalkidona",
+        "men": 16809,
+        "women": 18149
+      },
+      {
+        "municipality": "Aigaleo",
+        "men": 32014,
+        "women": 33817
+      },
+      {
+        "municipality": "Agia Varvara",
+        "men": 12747,
+        "women": 14012
+      },
+      {
+        "municipality": "Chaidari",
+        "men": 22983,
+        "women": 24068
+      },
+      {
+        "municipality": "Peristeri",
+        "men": 65077,
+        "women": 68553
+      },
+      {
+        "municipality": "Petroupoli",
+        "men": 28999,
+        "women": 31147
+      },
+      {
+        "municipality": "Ilion",
+        "men": 40833,
+        "women": 43171
+      },
+      {
+        "municipality": "Agioi Anargyroi - Kamatero",
+        "men": 30219,
+        "women": 31243
+      },
+      {
+        "municipality": "Nea Ionia",
+        "men": 31197,
+        "women": 33414
+      },
+      {
+        "municipality": "Iraklio",
+        "men": 24084,
+        "women": 26410
+      },
+      {
+        "municipality": "Metamorfosi",
+        "men": 14522,
+        "women": 15652
+      },
+      {
+        "municipality": "Lykovrysi - Pefki",
+        "men": 14782,
+        "women": 16216
+      },
+      {
+        "municipality": "Kifissia",
+        "men": 34400,
+        "women": 38478
+      },
+      {
+        "municipality": "Penteli",
+        "men": 17096,
+        "women": 18514
+      },
+      {
+        "municipality": "Marousi",
+        "men": 33516,
+        "women": 38314
+      },
+      {
+        "municipality": "Vrilissia",
+        "men": 15410,
+        "women": 17007
+      },
+      {
+        "municipality": "Agia Paraskevi",
+        "men": 29104,
+        "women": 33043
+      },
+      {
+        "municipality": "Papagou - Cholargos",
+        "men": 20651,
+        "women": 24615
+      },
+      {
+        "municipality": "Chalandri",
+        "men": 36040,
+        "women": 41062
+      },
+      {
+        "municipality": "Filothei - Psychiko",
+        "men": 12530,
+        "women": 15106
+      },
+      {
+        "municipality": "Glyfada",
+        "men": 42257,
+        "women": 47340
+      },
+      {
+        "municipality": "Elliniko - Argyroupoli",
+        "men": 23758,
+        "women": 26269
+      },
+      {
+        "municipality": "Alimos",
+        "men": 20499,
+        "women": 22675
+      },
+      {
+        "municipality": "Agios Dimitrios",
+        "men": 34624,
+        "women": 37040
+      },
+      {
+        "municipality": "Nea Smyrni",
+        "men": 33642,
+        "women": 39211
+      },
+      {
+        "municipality": "Palaio Faliro",
+        "men": 29899,
+        "women": 34964
+      },
+      {
+        "municipality": "Kallithea",
+        "men": 45558,
+        "women": 52058
+      },
+      {
+        "municipality": "Moschato - Tavros",
+        "men": 19178,
+        "women": 20483
+      }
+    ]
+  }
+}

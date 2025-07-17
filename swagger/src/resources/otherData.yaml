@@ -1,0 +1,216 @@
+
+post:
+  tags:
+    - Open Data
+  summary: Returns the Secondary Data
+  description: Returns the Secondary Data (with Pagination). Open data from 'Region of Attica site' & 'Open Data portal of Region of Attica'.
+  operationId: OtherData
+  parameters:
+    - name: page
+      in: path
+      description: Pagination's page.
+      required: false
+      style: simple
+      schema:
+        type: integer
+  security: [ ]
+  requestBody:
+    content:
+      application/x-www-form-urlencoded:
+        schema:
+          type: object
+          properties:
+            municipality:
+              description: The name of the municipality.
+              type: string
+              enum:
+                - Όλα
+                - Αγίας Βαρβάρας
+                - Αγίας Παρασκευής
+                - Αγίου Δημητρίου
+                - Αγίων Αναργύρων - Καματερού
+                - Αθηναίων
+                - Αιγάλεω
+                - Αλίμου
+                - Αμαρουσίου
+                - Βριλησσίων
+                - Βύρωνος
+                - Γαλατσίου
+                - Γλυφάδας
+                - Δάφνης - Υμηττού
+                - Ελληνικού - Αργυρούπολης
+                - Ζωγράφου
+                - Ηλιουπόλεως
+                - Ηρακλείου Αττικής
+                - Ιλίου (Νέων Λοσίων)
+                - Καισαριανής
+                - Καλλιθέας
+                - Κηφισιάς
+                - Λυκόβρυσης - Πεύκης
+                - Μεταμόρφωσης
+                - Μοσχάτου - Ταύρου
+                - Νέας Ιονίας
+                - Νέας Σμύρνης
+                - Νέας Φιλαδέλφειας - Νέας Χαλκιδόνας
+                - Παλαιού Φαλήρου
+                - Παπάγου - Χολαργού
+                - Πεντέλης
+                - Περιστερίου
+                - Πετρουπόλεως
+                - Φιλοθέης - Ψυχικού
+                - Χαλανδρίου
+                - Χαϊδαρίου
+            other:
+              description: The type of data
+              type: string
+              enum:
+                - Θερμαινόμενοι χώροι
+                - Κλιματιζόμενοι χώροι
+                - Κέντρα Δημιουργικής Απασχόλησης Παίδων
+                - Κέντρα Δημιουργικής Απασχόλησης Παίδων με Αναπηρία
+                - Κέντρα Φροντίδας Ηλικιωμένων
+                - Κέντρα Αποθεραπείας - Αποκατάστασης
+    required: true
+  responses:
+    '200':
+      description: OK
+      content:
+        application/json:
+          schema:
+            type: object
+            example: {
+              "current_page": 1,
+              "data": {
+                "headers": [
+                  "Κτήριο",
+                  "Οδός",
+                  "Τηλέφωνο",
+                  "Ωράριο Λειτουργίας",
+                  "Δήμος"
+                ],
+                "values": [
+                  {
+                    "building": "Κ.Η.Φ.Η (Κέντρο Ημερήσιας Φροντίδας Ηλικιωμένων) ",
+                    "address": "ΣΙΠΥΛΟΥ 16, ΑΓΙΑ ΒΑΡΒΑΡΑ",
+                    "phone": null,
+                    "time": null,
+                    "municipality": "Αγίας Βαρβάρας"
+                  },
+                  {
+                    "building": "ΔΗΜΟΤΙΚΟ ΚΤΙΡΙΟ ΚΑΜΑΤΕΡΟΥ",
+                    "address": "ΠΑΡΟΥ 2Α, ΚΑΜΑΤΕΡΟ",
+                    "phone": null,
+                    "time": "ΑΝΟΙΚΤΟ 24 ΏΡΕΣ",
+                    "municipality": "Αγίων Αναργύρων - Καματερού"
+                  },
+                  {
+                    "building": "Α' ΚΑΠΗ (ΑΓ ΑΝΑΡΓΥΡΩΝ)",
+                    "address": "Ν. ΠΛΑΣΤΗΡΑ ΚΑΙ ΚΛΕΙΣΟΥΡΑΣ 2, ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+                    "phone": "210 2690170",
+                    "time": "08:00-20:00",
+                    "municipality": "Αγίων Αναργύρων - Καματερού"
+                  },
+                  {
+                    "building": "ΚΕΝΤΡΙΚΟ ΚΑΠΗ (ΚΑΜΑΤΕΡΟΥ)",
+                    "address": "ΘΕΣΣΑΛΟΝΙΚΗΣ 36 & Β. ΓΕΩΡΓΙΟΥ 13, ΚΑΜΑΤΕΡΟ",
+                    "phone": "213 2039946",
+                    "time": "08:00-20:00",
+                    "municipality": "Αγίων Αναργύρων - Καματερού"
+                  },
+                  {
+                    "building": "ΔΗΜΑΡΧΕΙΟ ΑΙΓΑΛΕΩ",
+                    "address": "ΙΕΡΑ ΟΔΟΣ 364, ΑΙΓΑΛΕΩ",
+                    "phone": "213 2044800",
+                    "time": "ΚΑΘΗΜΕΡΙΝΑ 07:00-22:00",
+                    "municipality": "Αιγάλεω"
+                  },
+                  {
+                    "building": "ΠΟΛΙΤΙΣΤΙΚΟ ΚΕΝΤΡΟ «ΓΙΑΝΝΗΣ ΡΙΤΣΟΣ»",
+                    "address": "ΔΗΜΑΡΧΕΙΟΥ 17 ΚΑΙ ΚΟΥΝΤΟΥΡΙΩΤΟΥ, ΑΙΓΑΛΕΩ",
+                    "phone": "210 5907060, 210 5310542",
+                    "time": "ΔΕΥΤΕΡΑ-ΠΕΜΠΤΗ 08:00-20:00 ΠΑΡΑΣΚΕΥΗ 08:00-14:30 ",
+                    "municipality": "Αιγάλεω"
+                  },
+                  {
+                    "building": "ΑΙΘΟΥΣΑ ΠΡΟΣΩΠΙΚΟΥ ΤΗΣ ΔΝΣΗΣ ΔΙΑΧΕΙΡΙΣΗΣ ΑΠΟΡΡΙΜΑΤΩΝ ΚΑΙ ΠΡΑΣΙΝΟΥ",
+                    "address": "ΜΠΙΜΠΙΖΑ 1, ΙΛΙΟΝ",
+                    "phone": "210 2632369",
+                    "time": null,
+                    "municipality": "Ιλίου (Νέων Λοσίων)"
+                  },
+                  {
+                    "building": "ΔΗΜΑΡΧΕΙΟ - ΑΙΘΟΥΣΑ ΕΚΔΗΛΩΣΕΩΝ",
+                    "address": "ΚΑΛΧΟΥ 48-50, ΙΛΙΟΝ",
+                    "phone": "213 2030187",
+                    "time": null,
+                    "municipality": "Ιλίου (Νέων Λοσίων)"
+                  },
+                  {
+                    "building": "ΚΕΝΤΡΟ ΦΙΛΙΑΣ (ΚΕ.ΦΙ.)",
+                    "address": "ΒΑΡΝΑΛΗ - ΡΑΙΔΕΣΤΟΥ, ΠΕΡΙΣΤΕΡΙ",
+                    "phone": "2105740590",
+                    "time": null,
+                    "municipality": "Περιστερίου"
+                  },
+                  {
+                    "building": "ΚΕΝΤΡΟ ΦΙΛΙΑΣ (ΚΕ.ΦΙ.)",
+                    "address": "ΑΓΙΟΥ ΙΕΡΟΘΕΟΥ 142, ΠΕΡΙΣΤΕΡΙ ",
+                    "phone": "2105777102",
+                    "time": null,
+                    "municipality": "Περιστερίου"
+                  }
+                ]
+              },
+              "first_page_url": "http://propfinder.test/api/fetchOtherData?page=1",
+              "from": 1,
+              "last_page": 6,
+              "last_page_url": "http://propfinder.test/api/fetchOtherData?page=6",
+              "links": [
+                {
+                  "url": null,
+                  "label": "&laquo; Previous",
+                  "active": false
+                },
+                {
+                  "url": "http://propfinder.test/api/fetchOtherData?page=1",
+                  "label": "1",
+                  "active": true
+                },
+                {
+                  "url": "http://propfinder.test/api/fetchOtherData?page=2",
+                  "label": "2",
+                  "active": false
+                },
+                {
+                  "url": "http://propfinder.test/api/fetchOtherData?page=3",
+                  "label": "3",
+                  "active": false
+                },
+                {
+                  "url": "http://propfinder.test/api/fetchOtherData?page=4",
+                  "label": "4",
+                  "active": false
+                },
+                {
+                  "url": "http://propfinder.test/api/fetchOtherData?page=5",
+                  "label": "5",
+                  "active": false
+                },
+                {
+                  "url": "http://propfinder.test/api/fetchOtherData?page=6",
+                  "label": "6",
+                  "active": false
+                },
+                {
+                  "url": "http://propfinder.test/api/fetchOtherData?page=2",
+                  "label": "Next &raquo;",
+                  "active": false
+                }
+              ],
+              "next_page_url": "http://propfinder.test/api/fetchOtherData?page=2",
+              "path": "http://propfinder.test/api/fetchOtherData",
+              "per_page": 10,
+              "prev_page_url": null,
+              "to": 2,
+              "total": 57
+            }

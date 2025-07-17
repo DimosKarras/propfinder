@@ -1,0 +1,6 @@
+name: objectId
+in: path
+required: true
+description: The related object id
+schema:
+  type: integer

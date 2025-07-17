@@ -1,0 +1,284 @@
+post:
+  tags:
+    - Open Data
+  summary: Returns Air Pollution Data.
+  description: Open Data for Air Pollution Data from the Ministry of Environment of Greece. There are data for only 6 municipalities of the metropolitan region of Athens.
+  operationId: AirPollutionData
+  security: [ ]
+  requestBody:
+    content:
+      application/x-www-form-urlencoded:
+        schema:
+          type: object
+          properties:
+            municipality:
+              description: The name of the municipality.
+              type: string
+              enum:
+                - Αγίας Παρασκευής
+                - Αθηναίων
+                - Αμαρουσίου
+                - Λυκόβρυσης - Πεύκης
+                - Νέας Σμύρνης
+                - Περιστερίου
+            pollution:
+              description: The type of the pollutant
+              type: string
+              enum:
+                - Μονοξείδιο του Αζώτου
+                - Διοξείδιο του Αζώτου
+                - Όζον
+                - Μονοξείδιο του Άνθρακα
+                - Διοξείδιο του Θείου
+                - Μικροσωματίδια PM10
+                - Μικροσωματίδια PM2.5
+    required: true
+  responses:
+    '200':
+      description: OK
+      content:
+        application/json:
+          schema:
+            type: array
+            example: [
+              {
+                "year": 2010,
+                "quarter": 1,
+                "value": 48.27211576119246
+              },
+              {
+                "year": 2010,
+                "quarter": 2,
+                "value": 74.30145202020209
+              },
+              {
+                "year": 2010,
+                "quarter": 3,
+                "value": 82.29452034041556
+              },
+              {
+                "year": 2010,
+                "quarter": 4,
+                "value": 36.630908289241574
+              },
+              {
+                "year": 2011,
+                "quarter": 1,
+                "value": 42.47349007675097
+              },
+              {
+                "year": 2011,
+                "quarter": 2,
+                "value": 77.87861359291432
+              },
+              {
+                "year": 2011,
+                "quarter": 3,
+                "value": 94.46578557312262
+              },
+              {
+                "year": 2011,
+                "quarter": 4,
+                "value": 43.2078804347826
+              },
+              {
+                "year": 2012,
+                "quarter": 1,
+                "value": 45.98204512878424
+              },
+              {
+                "year": 2012,
+                "quarter": 2,
+                "value": 84.51714046822747
+              },
+              {
+                "year": 2012,
+                "quarter": 3,
+                "value": 86.86635554505368
+              },
+              {
+                "year": 2012,
+                "quarter": 4,
+                "value": 42.84102792632208
+              },
+              {
+                "year": 2013,
+                "quarter": 1,
+                "value": 41.211940031045366
+              },
+              {
+                "year": 2013,
+                "quarter": 2,
+                "value": 79.33380827247282
+              },
+              {
+                "year": 2013,
+                "quarter": 3,
+                "value": 94.18466031897698
+              },
+              {
+                "year": 2013,
+                "quarter": 4,
+                "value": 43.517210144927574
+              },
+              {
+                "year": 2014,
+                "quarter": 1,
+                "value": 47.18248469348215
+              },
+              {
+                "year": 2014,
+                "quarter": 2,
+                "value": 75.96266671924582
+              },
+              {
+                "year": 2014,
+                "quarter": 3,
+                "value": 77.88184506231735
+              },
+              {
+                "year": 2014,
+                "quarter": 4,
+                "value": 42.08590256153973
+              },
+              {
+                "year": 2015,
+                "quarter": 1,
+                "value": 48.46325147611381
+              },
+              {
+                "year": 2015,
+                "quarter": 2,
+                "value": 81.46217199254296
+              },
+              {
+                "year": 2015,
+                "quarter": 3,
+                "value": 83.92325790151861
+              },
+              {
+                "year": 2015,
+                "quarter": 4,
+                "value": 38.74279479578391
+              },
+              {
+                "year": 2016,
+                "quarter": 1,
+                "value": 49.40703209833644
+              },
+              {
+                "year": 2016,
+                "quarter": 2,
+                "value": 76.35992377188036
+              },
+              {
+                "year": 2016,
+                "quarter": 3,
+                "value": 89.10985449735443
+              },
+              {
+                "year": 2016,
+                "quarter": 4,
+                "value": 43.06031837360948
+              },
+              {
+                "year": 2017,
+                "quarter": 1,
+                "value": 54.694150044428234
+              },
+              {
+                "year": 2017,
+                "quarter": 2,
+                "value": 76.3056563002216
+              },
+              {
+                "year": 2017,
+                "quarter": 3,
+                "value": 97.73054029304015
+              },
+              {
+                "year": 2017,
+                "quarter": 4,
+                "value": 49.478851010100925
+              },
+              {
+                "year": 2018,
+                "quarter": 1,
+                "value": 50.57016070945213
+              },
+              {
+                "year": 2018,
+                "quarter": 2,
+                "value": 81.82018292266736
+              },
+              {
+                "year": 2018,
+                "quarter": 3,
+                "value": 89.21629901960786
+              },
+              {
+                "year": 2018,
+                "quarter": 4,
+                "value": 40.20487918272648
+              },
+              {
+                "year": 2019,
+                "quarter": 1,
+                "value": 54.205312407898596
+              },
+              {
+                "year": 2019,
+                "quarter": 2,
+                "value": 76.7894195578975
+              },
+              {
+                "year": 2019,
+                "quarter": 3,
+                "value": 98.22164451064697
+              },
+              {
+                "year": 2019,
+                "quarter": 4,
+                "value": 40.313063076547856
+              },
+              {
+                "year": 2021,
+                "quarter": 1,
+                "value": 49.489540330844676
+              },
+              {
+                "year": 2021,
+                "quarter": 2,
+                "value": 78.82218506131558
+              },
+              {
+                "year": 2021,
+                "quarter": 3,
+                "value": 90.60448530675394
+              },
+              {
+                "year": 2021,
+                "quarter": 4,
+                "value": 46.350679271106976
+              },
+              {
+                "year": 2022,
+                "quarter": 1,
+                "value": 52.73988900391073
+              },
+              {
+                "year": 2022,
+                "quarter": 2,
+                "value": 81.93788018399817
+              },
+              {
+                "year": 2022,
+                "quarter": 3,
+                "value": 81.19391344783322
+              },
+              {
+                "year": 2022,
+                "quarter": 4,
+                "value": 39.200910634716195
+              }
+            ]

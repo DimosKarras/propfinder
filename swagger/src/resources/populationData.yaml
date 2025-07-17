@@ -1,0 +1,124 @@
+get:
+  tags:
+    - Open Data
+  summary: Returns the Population data.
+  description: Returns all the Population data of municipalities from the database either per year or per municipality. Data derived from census reports of Hellenic Statistic Authority.
+  operationId: GetPopulationData
+  security: []
+  parameters:
+    - name: year
+      in: query
+      required: true
+      description: ''
+      style: form
+      explode: true
+      schema:
+        type: string
+        enum:
+          - 2011
+          - 2021
+    - name: municipality
+      in: query
+      required: true
+      description: ''
+      style: form
+      explode: true
+      schema:
+        type: string
+        enum:
+          - Αγίας Βαρβάρας
+          - Αγίας Παρασκευής
+          - Αγίου Δημητρίου
+          - Αγίων Αναργύρων - Καματερού
+          - Αθηναίων
+          - Αιγάλεω
+          - Αλίμου
+          - Αμαρουσίου
+          - Βριλησσίων
+          - Βύρωνος
+          - Γαλατσίου
+          - Γλυφάδας
+          - Δάφνης - Υμηττού
+          - Ελληνικού - Αργυρούπολης
+          - Ζωγράφου
+          - Ηλιουπόλεως
+          - Ηρακλείου Αττικής
+          - Ιλίου (Νέων Λοσίων)
+          - Καισαριανής
+          - Καλλιθέας
+          - Κηφισιάς
+          - Λυκόβρυσης - Πεύκης
+          - Μεταμόρφωσης
+          - Μοσχάτου - Ταύρου
+          - Νέας Ιονίας
+          - Νέας Σμύρνης
+          - Νέας Φιλαδέλφειας - Νέας Χαλκιδόνας
+          - Παλαιού Φαλήρου
+          - Παπάγου - Χολαργού
+          - Πεντέλης
+          - Περιστερίου
+          - Πετρουπόλεως
+          - Φιλοθέης - Ψυχικού
+          - Χαλανδρίου
+          - Χαϊδαρίου
+        example: 'Αθηναίων'
+  responses:
+    '200':
+      description: OK
+      content:
+        application/json:
+          schema:
+            oneOf:
+              - type: object
+                example: {
+                  "success": true,
+                  "data": [
+                    {
+                      "municipality_id": 1,
+                      "year": "2011",
+                      "men": 315210,
+                      "women": 348836
+                    },
+                    {
+                      "municipality_id": 1,
+                      "year": "2021",
+                      "men": 310569,
+                      "women": 332883
+                    }
+                  ]
+                }
+              - type: object
+                example: {
+                  "success": true,
+                  "data": [
+                    {
+                      "population": 643452,
+                      "municipality": "Αθηναίων"
+                    },
+                    {
+                      "population": 33886,
+                      "municipality": "Δάφνης - Υμηττού"
+                    },
+                    {
+                      "population": 76730,
+                      "municipality": "Ηλιουπόλεως"
+                    },
+                    {
+                      "population": 59134,
+                      "municipality": "Βύρωνος"
+                    },
+                    {
+                      "population": 26269,
+                      "municipality": "Καισαριανής"
+                    },
+                    {
+                      "population": 69874,
+                      "municipality": "Ζωγράφου"
+                    },
+                    {
+                      "population": 57909,
+                      "municipality": "Γαλατσίου"
+                    },
+                  ]
+                }
+  deprecated: false

@@ -1,0 +1,3532 @@
+[
+    {
+        "stop_id": 10005,
+        "stop_name": "ΚΡΗΤΗΣ",
+        "stop_code": 10005,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_10005",
+        "stop_street": "ΠΑΛΑΙΩΝ ΠΟΛΕΜΙΣΤΩΝ",
+        "longitude": 23.6561504,
+        "latitude": 37.9904262,
+        "municipality": "ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ"
+    },
+    {
+        "stop_id": 10054,
+        "stop_name": "ΣΤΕΦ. ΣΑΡΑΦΗ",
+        "stop_code": 10054,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_10054",
+        "stop_street": "ΣΤΕΦ.ΣΑΡΑΦΗ",
+        "longitude": 23.6579144,
+        "latitude": 37.9931352,
+        "municipality": "ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ"
+    },
+    {
+        "stop_id": 10056,
+        "stop_name": "ΓΕΦΥΡΑ",
+        "stop_code": 10056,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_10056",
+        "stop_street": "ΣΤΕΦ.ΣΑΡΑΦΗ",
+        "longitude": 23.657495,
+        "latitude": 37.9902589,
+        "municipality": "ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ"
+    },
+    {
+        "stop_id": 10058,
+        "stop_name": "ΑΣΤΥΝΟΜΙΑ",
+        "stop_code": 10058,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_10058",
+        "stop_street": "ΣΤΕΦ.ΣΑΡΑΦΗ",
+        "longitude": 23.6576494,
+        "latitude": 37.9913318,
+        "municipality": "ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ"
+    },
+    {
+        "stop_id": 10062,
+        "stop_name": "ΛΥΚΟΥΡΓΟΥ",
+        "stop_code": 10062,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_10062",
+        "stop_street": "ΛΥΚΟΥΡΓΟΥ",
+        "longitude": 23.6579203999999,
+        "latitude": 37.9918283,
+        "municipality": "ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ"
+    },
+    {
+        "stop_id": 30027,
+        "stop_name": "5η ΑΓ. ΠΑΡΑΣΚΕΥΗΣ",
+        "stop_code": 30027,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_30027",
+        "stop_street": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+        "longitude": 23.8192504,
+        "latitude": 38.0010465,
+        "municipality": "ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ"
+    },
+    {
+        "stop_id": 30039,
+        "stop_name": "9η ΑΓ. ΠΑΡΑΣΚΕΥΗΣ",
+        "stop_code": 30039,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_30039",
+        "stop_street": "ΑΝΘ\\ΓΟΥ ΤΑΣΣΟΠΟΥΛΟΥ",
+        "longitude": 23.8274627,
+        "latitude": 38.0058447,
+        "municipality": "ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ"
+    },
+    {
+        "stop_id": 120,
+        "stop_name": "ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΣΤ.  ΔΑΦΝΗ)",
+        "stop_code": 10324,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_10324",
+        "stop_street": "ΠΑΠΑΝΑΣΤΑΣΙΟΥ",
+        "longitude": 23.7368385,
+        "latitude": 37.9489735,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 40040,
+        "stop_name": "ΑΝΤΙΟΠΗΣ",
+        "stop_code": 40040,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_40040",
+        "stop_street": "ΛΕΩΦ.ΑΓ.ΔΗΜΗΤΡΙΟΥ",
+        "longitude": 23.7359679,
+        "latitude": 37.9467667,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 40054,
+        "stop_name": "ΜΑΚΡΥΓΙΑΝΝΗ",
+        "stop_code": 40054,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_40054",
+        "stop_street": "ΑΛ.ΑΣΗΜΑΚΟΠΟΥΛΟΥ",
+        "longitude": 23.7298817,
+        "latitude": 37.9210751,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 40055,
+        "stop_name": "ΠΑΠΑΔΗΜΑ",
+        "stop_code": 40055,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_40055",
+        "stop_street": "ΑΛ.ΑΣΗΜΑΚΟΠΟΥΛΟΥ",
+        "longitude": 23.7309316,
+        "latitude": 37.9232213,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 40064,
+        "stop_name": "3η ΠΑΠΑΓΟΥ",
+        "stop_code": 40064,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_40064",
+        "stop_street": "ΣΤΡ\\ΧΟΥ ΑΛΕΞ.ΠΑΠΑΓΟΥ",
+        "longitude": 23.735913,
+        "latitude": 37.9398537,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 40067,
+        "stop_name": "ΝΕΚΡ. ΚΑΛΛΙΘΕΑΣ",
+        "stop_code": 40067,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_40067",
+        "stop_street": "ΑΓ.ΘΕΟΔΩΡΩΝ",
+        "longitude": 23.7161723,
+        "latitude": 37.9298754,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 40078,
+        "stop_name": "3η ΑΣΥΡΜΑΤΟΥ",
+        "stop_code": 40078,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_40078",
+        "stop_street": "ΑΣΥΡΜΑΤΟΥ",
+        "longitude": 23.721442,
+        "latitude": 37.9324928,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 40095,
+        "stop_name": "4η ΠΑΠΑΓΟΥ",
+        "stop_code": 40095,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_40095",
+        "stop_street": "ΣΤΡ\\ΧΟΥ ΑΛΕΞ.ΠΑΠΑΓΟΥ",
+        "longitude": 23.7343057,
+        "latitude": 37.9374166,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 41106,
+        "stop_name": "ΛΥΣΑΝΔΡΟΥ",
+        "stop_code": 41106,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_41106",
+        "stop_street": "ΛΕΩΦ.ΑΓ.ΔΗΜΗΤΡΙΟΥ",
+        "longitude": 23.7338948,
+        "latitude": 37.9440672,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 170051,
+        "stop_name": "ΠΑΠΑΝΑΣΤΑΣΙΟΥ",
+        "stop_code": 170051,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_170051",
+        "stop_street": "ΛΕΩΦ.ΠΑΠΑΝΑΣΤΑΣΙΟΥ",
+        "longitude": 23.7359961,
+        "latitude": 37.9484342,
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "stop_id": 50014,
+        "stop_name": "ΣΧΟΛΕΙΟ",
+        "stop_code": 50014,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_50014",
+        "stop_street": "ΣΥΡΟΥ",
+        "longitude": 23.7239161,
+        "latitude": 38.0284856,
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ – ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "stop_id": 50020,
+        "stop_name": "9η",
+        "stop_code": 50020,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_50020",
+        "stop_street": "ΓΕΩΡΓ.ΠΑΠΑΝΔΡΕΟΥ",
+        "longitude": 23.730795,
+        "latitude": 38.038704,
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ – ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "stop_id": 50073,
+        "stop_name": "ΜΥΚΟΝΙΑΤΙΚΑ",
+        "stop_code": 50073,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_50073",
+        "stop_street": "ΝΙΚ.ΠΛΑΣΤΗΡΑ",
+        "longitude": 23.7193706,
+        "latitude": 38.0193088,
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ – ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "stop_id": 60017,
+        "stop_name": "ΑΓ. ΕΛΕΥΘΕΡΙΟΣ",
+        "stop_code": 60017,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60017",
+        "stop_street": "ΜΟΜΦΕΡΑΤΟΥ",
+        "longitude": 23.7465462,
+        "latitude": 37.9909293,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60018,
+        "stop_name": "ΜΟΜΦΕΡΑΤΟΥ",
+        "stop_code": 60018,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60018",
+        "stop_street": "ΜΟΜΦΕΡΑΤΟΥ",
+        "longitude": 23.7479147,
+        "latitude": 37.9906755,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60033,
+        "stop_name": "ΠΟΛΥΤΕΧΝΕΙΟ",
+        "stop_code": 60033,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60033",
+        "stop_street": "ΜΠΟΥΜΠΟΥΛΙΝΑΣ",
+        "longitude": 23.7333238,
+        "latitude": 37.9879039,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60034,
+        "stop_name": "ΑΓ. ΒΑΣΙΛΕΙΟΣ",
+        "stop_code": 60034,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60034",
+        "stop_street": "ΜΠΟΥΜΠΟΥΛΙΝΑΣ",
+        "longitude": 23.7339583,
+        "latitude": 37.9905888,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60038,
+        "stop_name": "1η ΒΑΛΤΙΝΩΝ",
+        "stop_code": 60038,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60038",
+        "stop_street": "ΒΑΛΤΙΝΩΝ",
+        "longitude": 23.7416571,
+        "latitude": 37.9927,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60039,
+        "stop_name": "2η ΒΑΛΤΙΝΩΝ",
+        "stop_code": 60039,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60039",
+        "stop_street": "ΒΑΛΤΙΝΩΝ",
+        "longitude": 23.7443096,
+        "latitude": 37.9929942,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60040,
+        "stop_name": "ΓΕΝΝΑΔΙΟΥ",
+        "stop_code": 60040,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60040",
+        "stop_street": "ΓΕΝΝΑΔΙΟΥ",
+        "longitude": 23.7457573,
+        "latitude": 37.9926188,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60041,
+        "stop_name": "ΜΠΟΥΚΟΥΒΑΛΑ",
+        "stop_code": 60041,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60041",
+        "stop_street": "ΜΟΜΦΕΡΑΤΟΥ",
+        "longitude": 23.7496603,
+        "latitude": 37.9902478,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60046,
+        "stop_name": "ΠΑΛΑΙΟ ΤΕΡΜΑ",
+        "stop_code": 60046,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60046",
+        "stop_street": "ΠΑΝΟΡΜΟΥ",
+        "longitude": 23.7610877,
+        "latitude": 37.9922093,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60049,
+        "stop_name": "ΠΑΛΑΙΟ ΤΕΡΜΑ",
+        "stop_code": 60049,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60049",
+        "stop_street": "ΠΑΝΟΡΜΟΥ",
+        "longitude": 23.7603817,
+        "latitude": 37.9921898,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60050,
+        "stop_name": "ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+        "stop_code": 60050,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60050",
+        "stop_street": "ΠΑΝΟΡΜΟΥ",
+        "longitude": 23.7589852,
+        "latitude": 37.9908891,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60055,
+        "stop_name": "ΑΓ. ΕΛΕΥΘΕΡΙΟΣ",
+        "stop_code": 60055,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60055",
+        "stop_street": "ΡΑΓΚΑΒΗ",
+        "longitude": 23.7471618,
+        "latitude": 37.9915313,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60056,
+        "stop_name": "ΒΑΛΤΙΝΩΝ",
+        "stop_code": 60056,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60056",
+        "stop_street": "ΒΑΛΤΙΝΩΝ",
+        "longitude": 23.7457103,
+        "latitude": 37.9930513,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60063,
+        "stop_name": "ΜΙΧ. ΒΟΔΑ",
+        "stop_code": 60063,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60063",
+        "stop_street": "ΗΠΕΙΡΟΥ",
+        "longitude": 23.7245365,
+        "latitude": 37.9905792,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60088,
+        "stop_name": "ΝΑΥΤΙΚΟ",
+        "stop_code": 60088,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60088",
+        "stop_street": "ΔΕΙΝΟΚΡΑΤΟΥΣ",
+        "longitude": 23.7514998,
+        "latitude": 37.9816985,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60089,
+        "stop_name": "ΔΟΡΥΛΑΙΟΥ",
+        "stop_code": 60089,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60089",
+        "stop_street": "ΤΙΜ.ΦΙΛΗΜΟΝΟΣ",
+        "longitude": 23.7531791,
+        "latitude": 37.9834866,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60092,
+        "stop_name": "3η ΛΥΚΑΒΗΤΤΟΥ",
+        "stop_code": 60092,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60092",
+        "stop_street": "ΚΛΕΟΜΕΝΟΥΣ",
+        "longitude": 23.7476308,
+        "latitude": 37.9809692,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60100,
+        "stop_name": "11η ΛΥΚΑΒΗΤΤΟΥ",
+        "stop_code": 60100,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60100",
+        "stop_street": "ΑΡΜΑΤΩΛΩΝ ΚΑΙ ΚΛΕΦΤΩΝ",
+        "longitude": 23.7503081,
+        "latitude": 37.9872839,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60103,
+        "stop_name": "ΔΟΡΥΛΑΙΟΥ",
+        "stop_code": 60103,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60103",
+        "stop_street": "ΓΕΛΩΝΟΣ",
+        "longitude": 23.7532262,
+        "latitude": 37.983018,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60104,
+        "stop_name": "ΝΑΥΤΙΚΟ",
+        "stop_code": 60104,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60104",
+        "stop_street": "ΔΕΙΝΟΚΡΑΤΟΥΣ",
+        "longitude": 23.7514876,
+        "latitude": 37.9819598,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60139,
+        "stop_name": "ΖΑΧΑΡΟΠΛΑΣΤΕΙΟ",
+        "stop_code": 60139,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60139",
+        "stop_street": "ΚΟΥΡΤΙΔΟΥ",
+        "longitude": 23.7234811,
+        "latitude": 38.0168761,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60157,
+        "stop_name": "ΣΙΔΕΡΑ",
+        "stop_code": 60157,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60157",
+        "stop_street": "ΣΕΠΟΛΙΩΝ",
+        "longitude": 23.7207578,
+        "latitude": 37.9990063,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60165,
+        "stop_name": "ΑΓ. ΜΕΛΕΤΙΟΣ",
+        "stop_code": 60165,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60165",
+        "stop_street": "ΒΟΡ.ΗΠΕΙΡΟΥ",
+        "longitude": 23.718819,
+        "latitude": 38.0013474,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60176,
+        "stop_name": "ΙΚΑ ΠΑΤΗΣΙΩΝ",
+        "stop_code": 60176,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60176",
+        "stop_street": "ΔΡΟΣΟΠΟΥΛΟΥ",
+        "longitude": 23.736113,
+        "latitude": 38.0080005,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60186,
+        "stop_name": "ΠΝΕΥΜΑΤΙΚΟ ΚΕΝΤΡΟ",
+        "stop_code": 60186,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60186",
+        "stop_street": "ΚΡΕΟΝΤΟΣ",
+        "longitude": 23.7136198,
+        "latitude": 38.0010801,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60220,
+        "stop_name": "ΑΛΑΜΑΝΑΣ",
+        "stop_code": 60220,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60220",
+        "stop_street": "ΠΑΛΑΜΗΔΙΟΥ",
+        "longitude": 23.7162531,
+        "latitude": 37.9886758,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60329,
+        "stop_name": "ΚΟΖΑΝΗΣ",
+        "stop_code": 60329,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60329",
+        "stop_street": "ΚΟΖΑΝΗΣ",
+        "longitude": 23.7058417,
+        "latitude": 37.977952,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60339,
+        "stop_name": "ΑΓ. ΜΑΡΚΕΛΑ",
+        "stop_code": 60339,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60339",
+        "stop_street": "ΣΠΥΡΟΥ ΠΑΤΣΗ",
+        "longitude": 23.7083829,
+        "latitude": 37.9803287,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60356,
+        "stop_name": "ΑΜΑΞΟΣΤΑΣΙΟ ΒΟΤΑΝΙΚΟΥ",
+        "stop_code": 60356,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60356",
+        "stop_street": "ΑΓ.ΠΟΛΥΚΑΡΠΟΥ",
+        "longitude": 23.7061311,
+        "latitude": 37.9796381,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60358,
+        "stop_name": "ΠΛΑΤΑΙΩΝ",
+        "stop_code": 60358,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60358",
+        "stop_street": "ΜΕΓ.ΑΛΕΞΑΝΔΡΟΥ",
+        "longitude": 23.7159592,
+        "latitude": 37.9822039,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60359,
+        "stop_name": "ΛΕΩΝΙΔΟΥ",
+        "stop_code": 60359,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60359",
+        "stop_street": "ΘΕΡΜΟΠΥΛΩΝ",
+        "longitude": 23.7181134,
+        "latitude": 37.9816683,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60363,
+        "stop_name": "ΜΥΛΛΕΡΟΥ",
+        "stop_code": 60363,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60363",
+        "stop_street": "ΜΕΓ.ΑΛΕΞΑΝΔΡΟΥ",
+        "longitude": 23.7191123,
+        "latitude": 37.9836971,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60372,
+        "stop_name": "ΙΔΡ. ΜΕΛ. ΜΕΡΚΟΥΡΗ",
+        "stop_code": 60372,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60372",
+        "stop_street": "ΠΕΡΣΕΦΟΝΗΣ",
+        "longitude": 23.7138339,
+        "latitude": 37.9768834,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60378,
+        "stop_name": "ΜΥΡΜΙΔΟΝΩΝ",
+        "stop_code": 60378,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60378",
+        "stop_street": "ΤΡΙΩΝ ΙΕΡΑΡΧΩΝ",
+        "longitude": 23.7138694,
+        "latitude": 37.9749525,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60379,
+        "stop_name": "ΓΕΦΥΡΑ",
+        "stop_code": 60379,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60379",
+        "stop_street": "ΤΡΙΩΝ ΙΕΡΑΡΧΩΝ",
+        "longitude": 23.7127048,
+        "latitude": 37.9728586,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60381,
+        "stop_name": "ΦΑΡΜΑΚΕΙΟ",
+        "stop_code": 60381,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60381",
+        "stop_street": "ΤΡΙΩΝ ΙΕΡΑΡΧΩΝ",
+        "longitude": 23.7108848,
+        "latitude": 37.9695284,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60395,
+        "stop_name": "ΤΑΧΥΔΡΟΜΕΙΟ",
+        "stop_code": 60395,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60395",
+        "stop_street": "ΚΕΙΡΙΑΔΩΝ",
+        "longitude": 23.7103362,
+        "latitude": 37.972961,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60398,
+        "stop_name": "ΣΤ. ΗΣΑΠ ΠΕΤΡΑΛΩΝΑ",
+        "stop_code": 60398,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60398",
+        "stop_street": "ΚΕΙΡΙΑΔΩΝ",
+        "longitude": 23.707883,
+        "latitude": 37.9685476,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60399,
+        "stop_name": "ΑΘΗΝΑΔΩΡΟΥ",
+        "stop_code": 60399,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60399",
+        "stop_street": "ΚΕΙΡΙΑΔΩΝ",
+        "longitude": 23.7070796,
+        "latitude": 37.9673199,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60400,
+        "stop_name": "ΓΕΦΥΡΕΣ",
+        "stop_code": 60400,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60400",
+        "stop_street": "ΚΕΙΡΙΑΔΩΝ",
+        "longitude": 23.7056861,
+        "latitude": 37.9656039,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60427,
+        "stop_name": "ΠΛ. ΒΙΚΤΩΡΙΑΣ",
+        "stop_code": 60427,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60427",
+        "stop_street": "3ηs ΣΕΠΤΕΜΒΡΙΟΥ",
+        "longitude": 23.7302679,
+        "latitude": 37.9928547,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60428,
+        "stop_name": "ΑΓΓΕΛΟΠΟΥΛΟΥ",
+        "stop_code": 60428,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60428",
+        "stop_street": "3ηs ΣΕΠΤΕΜΒΡΙΟΥ",
+        "longitude": 23.7310096,
+        "latitude": 37.9955692,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60431,
+        "stop_name": "ΚΑΛΛΙΦΡΟΝΑ",
+        "stop_code": 60431,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60431",
+        "stop_street": "ΔΡΟΣΟΠΟΥΛΟΥ",
+        "longitude": 23.7355274,
+        "latitude": 38.002943,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60437,
+        "stop_name": "ΣΧΟΛΕΙΑ ΓΚΡΑΒΑΣ",
+        "stop_code": 60437,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60437",
+        "stop_street": "ΤΑΥΓΕΤΟΥ",
+        "longitude": 23.7392156,
+        "latitude": 38.0132168,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60444,
+        "stop_name": "ΑΣΤΥΝΟΜΙΑ",
+        "stop_code": 60444,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60444",
+        "stop_street": "ΧΑΛΕΠΑ",
+        "longitude": 23.7434687,
+        "latitude": 38.0186339,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60447,
+        "stop_name": "ΣΥΡΑΚΟΥΣΩΝ",
+        "stop_code": 60447,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60447",
+        "stop_street": "ΣΥΡΑΚΟΥΣΩΝ",
+        "longitude": 23.7496885,
+        "latitude": 38.025497,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60449,
+        "stop_name": "ΠΛΑΤΕΙΑ",
+        "stop_code": 60449,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60449",
+        "stop_street": "ΣΥΡΑΚΟΥΣΩΝ",
+        "longitude": 23.7493807,
+        "latitude": 38.0255504,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60452,
+        "stop_name": "ΧΑΛΕΠΑ",
+        "stop_code": 60452,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60452",
+        "stop_street": "ΧΑΛΕΠΑ",
+        "longitude": 23.7452982,
+        "latitude": 38.0199807,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60453,
+        "stop_name": "ΑΣΤΥΝΟΜΙΑ",
+        "stop_code": 60453,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60453",
+        "stop_street": "ΧΑΛΕΠΑ",
+        "longitude": 23.7441158,
+        "latitude": 38.0192752,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60455,
+        "stop_name": "ΓΑΛΑΤΣΙΟΥ",
+        "stop_code": 60455,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60455",
+        "stop_street": "ΑΓ.ΛΑΥΡΑΣ",
+        "longitude": 23.7390713,
+        "latitude": 38.0153706,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60478,
+        "stop_name": "ΛΥΣΙΑΤΡΕΙΟ",
+        "stop_code": 60478,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60478",
+        "stop_street": "ΔΡΟΣΟΠΟΥΛΟΥ",
+        "longitude": 23.7361196,
+        "latitude": 38.0061439,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60479,
+        "stop_name": "ΚΟΛΙΑΤΣΟΥ",
+        "stop_code": 60479,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60479",
+        "stop_street": "ΔΡΟΣΟΠΟΥΛΟΥ",
+        "longitude": 23.7362223,
+        "latitude": 38.0092715,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60480,
+        "stop_name": "ΑΓ. ΛΟΥΚΑΣ",
+        "stop_code": 60480,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60480",
+        "stop_street": "ΔΡΟΣΟΠΟΥΛΟΥ",
+        "longitude": 23.7363437,
+        "latitude": 38.0135439,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60534,
+        "stop_name": "ΠΑΛ. ΤΕΡΜΑ",
+        "stop_code": 60534,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60534",
+        "stop_street": "ΒΕΛΒΕΝΔΟΥΣ",
+        "longitude": 23.7457469,
+        "latitude": 38.0031479,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60541,
+        "stop_name": "ΓΥΜΝΑΣΙΟ",
+        "stop_code": 60541,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60541",
+        "stop_street": "ΒΕΛΒΕΝΔΟΥΣ",
+        "longitude": 23.7479952,
+        "latitude": 38.0042682,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60542,
+        "stop_name": "ΠΑΛ. ΤΕΡΜΑ",
+        "stop_code": 60542,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60542",
+        "stop_street": "ΚΕΡΚΥΡΑΣ",
+        "longitude": 23.7461534,
+        "latitude": 38.0032548,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60543,
+        "stop_name": "ΦΙΛΟΤΙΜΟΥ",
+        "stop_code": 60543,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60543",
+        "stop_street": "ΚΕΡΚΥΡΑΣ",
+        "longitude": 23.7445981,
+        "latitude": 38.0017553,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60544,
+        "stop_name": "ΣΚΥΡΟΥ",
+        "stop_code": 60544,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60544",
+        "stop_street": "ΚΕΡΚΥΡΑΣ",
+        "longitude": 23.7420776,
+        "latitude": 37.9994605,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60545,
+        "stop_name": "ΖΑΚΥΝΘΟΥ",
+        "stop_code": 60545,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60545",
+        "stop_street": "ΚΕΡΚΥΡΑΣ",
+        "longitude": 23.7403291,
+        "latitude": 37.9979065,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60572,
+        "stop_name": "ΒΟΥΡΗ",
+        "stop_code": 60572,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60572",
+        "stop_street": "ΕΥΣΤΑΘ.ΛΑΜΨΑ",
+        "longitude": 23.7651053,
+        "latitude": 37.9965886,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60625,
+        "stop_name": "ΔΙΚΑΣΤΗΡΙΑ",
+        "stop_code": 60625,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60625",
+        "stop_street": "ΕΥΕΛΠΙΔΩΝ",
+        "longitude": 23.7419754,
+        "latitude": 37.9961166,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60639,
+        "stop_name": "1η ΕΛ. ΒΕΝΙΖΕΛΟΥ",
+        "stop_code": 60639,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60639",
+        "stop_street": "ΚΩΝ.ΤΣΑΛΔΑΡΗ",
+        "longitude": 23.7502493,
+        "latitude": 37.9976749,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60641,
+        "stop_name": "ΚΡΥΣΤΑΛ",
+        "stop_code": 60641,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60641",
+        "stop_street": "ΠΡΙΓΚΙΠΟΝΝΗΣΩΝ",
+        "longitude": 23.7475208,
+        "latitude": 37.996435,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60677,
+        "stop_name": "ΓΑΛΑΞΙΑΣ",
+        "stop_code": 60677,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60677",
+        "stop_street": "ΜΕΣΟΓΕΙΩΝ",
+        "longitude": 23.7613385,
+        "latitude": 37.9851167,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60705,
+        "stop_name": "ΝΟΣΟΚ. ΠΑΙΔΩΝ",
+        "stop_code": 60705,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60705",
+        "stop_street": "ΘΗΒΩΝ",
+        "longitude": 23.767398,
+        "latitude": 37.9846692,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60706,
+        "stop_name": "ΝΟΣΟΚΟΜΕΙΟ ΠΑΙΔΩΝ",
+        "stop_code": 60706,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60706",
+        "stop_street": "ΘΗΒΩΝ",
+        "longitude": 23.768333,
+        "latitude": 37.9839712,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60709,
+        "stop_name": "ΛΑΙΚΟ",
+        "stop_code": 60709,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60709",
+        "stop_street": "ΜΙΚΡΑΣ ΑΣΙΑΣ",
+        "longitude": 23.7651937,
+        "latitude": 37.9831687,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60710,
+        "stop_name": "ΟΤΕ",
+        "stop_code": 60710,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60710",
+        "stop_street": "ΜΙΚΡΑΣ ΑΣΙΑΣ",
+        "longitude": 23.7625881,
+        "latitude": 37.9819492,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60711,
+        "stop_name": "ΑΛΕΞ",
+        "stop_code": 60711,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60711",
+        "stop_street": "ΜΙΚΡΑΣ ΑΣΙΑΣ",
+        "longitude": 23.7598835,
+        "latitude": 37.9808146,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60727,
+        "stop_name": "ΠΛ. ΠΛΑΣΤΗΡΑ",
+        "stop_code": 60727,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60727",
+        "stop_street": "ΑΡΧΙΜΗΔΟΥΣ",
+        "longitude": 23.7435655,
+        "latitude": 37.9679368,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60730,
+        "stop_name": "ΑΡΥΒΒΟΥ",
+        "stop_code": 60730,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60730",
+        "stop_street": "ΑΡΥΒΒΟΥ",
+        "longitude": 23.7470161,
+        "latitude": 37.9643121,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60732,
+        "stop_name": "ΓΕΦΥΡΑ",
+        "stop_code": 60732,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60732",
+        "stop_street": "ΧΡΕΜΩΝΙΔΟΥ",
+        "longitude": 23.7512032,
+        "latitude": 37.9646044,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60735,
+        "stop_name": "ΕΜΠΕΔΟΚΛΕΟΥΣ",
+        "stop_code": 60735,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60735",
+        "stop_street": "ΕΜΠΕΔΟΚΛΕΟΥΣ",
+        "longitude": 23.7436174,
+        "latitude": 37.965396,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60737,
+        "stop_name": "ΠΛ. ΠΛΑΣΤΗΡΑ",
+        "stop_code": 60737,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60737",
+        "stop_street": "ΕΥΤΥΧΙΔΟΥ",
+        "longitude": 23.7441278,
+        "latitude": 37.968293,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60738,
+        "stop_name": "ΠΛ. ΠΛΑΣΤΗΡΑ",
+        "stop_code": 60738,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60738",
+        "stop_street": "ΕΥΤΥΧΙΔΟΥ",
+        "longitude": 23.7450692,
+        "latitude": 37.9679534,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60741,
+        "stop_name": "ΦΙΛΟΛΑΟΥ",
+        "stop_code": 60741,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60741",
+        "stop_street": "ΦΡΥΝΗΣ",
+        "longitude": 23.7491246,
+        "latitude": 37.965329,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60742,
+        "stop_name": "ΙΦΙΚΡΑΤΟΥΣ",
+        "stop_code": 60742,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60742",
+        "stop_street": "ΙΦΙΚΡΑΤΟΥΣ",
+        "longitude": 23.7511524,
+        "latitude": 37.9663163,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60744,
+        "stop_name": "ΑΛΣΟΣ",
+        "stop_code": 60744,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60744",
+        "stop_street": "ΕΥΤΥΧΙΔΟΥ",
+        "longitude": 23.7464933,
+        "latitude": 37.9679326,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60751,
+        "stop_name": "ΓΥΜΝΑΣΙΟ",
+        "stop_code": 60751,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60751",
+        "stop_street": "ΣΠΥΡ.ΜΕΡΚΟΥΡΗ",
+        "longitude": 23.7473173,
+        "latitude": 37.9703952,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60752,
+        "stop_name": "ΑΛΣΟΣ",
+        "stop_code": 60752,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60752",
+        "stop_street": "ΣΠΥΡ.ΜΕΡΚΟΥΡΗ",
+        "longitude": 23.746999,
+        "latitude": 37.9683015,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60753,
+        "stop_name": "ΑΛΣΟΣ",
+        "stop_code": 60753,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60753",
+        "stop_street": "ΣΠΥΡ.ΜΕΡΚΟΥΡΗ",
+        "longitude": 23.7471572,
+        "latitude": 37.9683375,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60754,
+        "stop_name": "ΓΥΜΝΑΣΙΟ",
+        "stop_code": 60754,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60754",
+        "stop_street": "ΣΠΥΡ.ΜΕΡΚΟΥΡΗ",
+        "longitude": 23.7474514,
+        "latitude": 37.9700288,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60757,
+        "stop_name": "ΕΥΦΡΟΝΙΟΥ",
+        "stop_code": 60757,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60757",
+        "stop_street": "ΕΥΦΡΟΝΙΟΥ",
+        "longitude": 23.7491992,
+        "latitude": 37.9728834,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60758,
+        "stop_name": "2η ΡΙΖΑΡΗ",
+        "stop_code": 60758,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60758",
+        "stop_street": "ΡΙΖΑΡΗ",
+        "longitude": 23.7467873,
+        "latitude": 37.9736718,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60762,
+        "stop_name": "ΚΑΡΑΒΕΛ",
+        "stop_code": 60762,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60762",
+        "stop_street": "ΒΑΣ.ΑΛΕΞΑΝΔΡΟΥ",
+        "longitude": 23.7509348,
+        "latitude": 37.9738772,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60764,
+        "stop_name": "ΧΙΛΤΟΝ",
+        "stop_code": 60764,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60764",
+        "stop_street": "ΒΑΣ.ΑΛΕΞΑΝΔΡΟΥ",
+        "longitude": 23.7500345,
+        "latitude": 37.9756312,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60845,
+        "stop_name": "ΑΓ. ΑΡΤΕΜΙΟΣ",
+        "stop_code": 60845,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60845",
+        "stop_street": "ΦΙΛΟΛΑΟΥ",
+        "longitude": 23.7424858,
+        "latitude": 37.9608864,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60850,
+        "stop_name": "ΔΑΜΑΡΕΩΣ",
+        "stop_code": 60850,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60850",
+        "stop_street": "ΔΑΜΑΓΗΤΟΥ",
+        "longitude": 23.7399458,
+        "latitude": 37.9612774,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60878,
+        "stop_name": "ΛΥΣΣΙΑΤΡΕΙΟ",
+        "stop_code": 60878,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60878",
+        "stop_street": "ΠΑΤΗΣΙΩΝ",
+        "longitude": 23.7349902,
+        "latitude": 38.00713,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60886,
+        "stop_name": "ΕΥΕΛΠΙΔΩΝ",
+        "stop_code": 60886,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60886",
+        "stop_street": "ΒΑΛΤΙΝΩΝ",
+        "longitude": 23.7438525,
+        "latitude": 37.9934438,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60887,
+        "stop_name": "ΑΓ.  ΧΑΡΑΛΑΜΠΟΣ",
+        "stop_code": 60887,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60887",
+        "stop_street": "ΒΑΛΤΙΝΩΝ",
+        "longitude": 23.7416784,
+        "latitude": 37.9931327,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60893,
+        "stop_name": "ΗΠΕΙΡΟΥ",
+        "stop_code": 60893,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60893",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7270516,
+        "latitude": 37.9910537,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60894,
+        "stop_name": "ΧΕΥΔΕΝ",
+        "stop_code": 60894,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60894",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7272678,
+        "latitude": 37.9941636,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60895,
+        "stop_name": "ΑΓ. ΠΑΝΤΕΛΕΗΜΩΝ",
+        "stop_code": 60895,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60895",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7275095,
+        "latitude": 37.9965706,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60896,
+        "stop_name": "ΙΘΑΚΗΣ",
+        "stop_code": 60896,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60896",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7276254,
+        "latitude": 37.9990945,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60897,
+        "stop_name": "ΑΓ. ΜΕΛΕΤΙΟΥ",
+        "stop_code": 60897,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60897",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7278446,
+        "latitude": 38.0014293,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60898,
+        "stop_name": "ΣΠΙΤΙ ΤΟΥ ΗΘΟΠΟΙΟΥ",
+        "stop_code": 60898,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60898",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7283623,
+        "latitude": 38.0031069,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60900,
+        "stop_name": "ΑΓ. ΝΙΚΟΛΑΟΣ",
+        "stop_code": 60900,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60900",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7298117,
+        "latitude": 38.008554,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60909,
+        "stop_name": "ΑΓ. ΕΛΕΥΘΕΡΙΟΣ",
+        "stop_code": 60909,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60909",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7287472,
+        "latitude": 38.0192137,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60910,
+        "stop_name": "ΠΑΠΑΝΤΩΝΙΟΥ",
+        "stop_code": 60910,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60910",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7281602,
+        "latitude": 38.0177432,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60914,
+        "stop_name": "ΑΓ. ΝΙΚΟΛΑΟΣ",
+        "stop_code": 60914,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60914",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7294934,
+        "latitude": 38.008382,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60915,
+        "stop_name": "ΠΑΡΑΔΕΙΣΟΣ",
+        "stop_code": 60915,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60915",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7289223,
+        "latitude": 38.0057039,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60916,
+        "stop_name": "ΣΠΙΤΙ ΤΟΥ ΗΘΟΠΟΙΟΥ",
+        "stop_code": 60916,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60916",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7282692,
+        "latitude": 38.0036475,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60917,
+        "stop_name": "ΑΓ .ΜΕΛΕΤΙΟΥ",
+        "stop_code": 60917,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60917",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7276613,
+        "latitude": 38.0016993,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60918,
+        "stop_name": "ΙΘΑΚΗΣ",
+        "stop_code": 60918,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60918",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7274522,
+        "latitude": 37.999725,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60920,
+        "stop_name": "ΧΕΥΔΕΝ",
+        "stop_code": 60920,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60920",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7270154,
+        "latitude": 37.9946588,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60921,
+        "stop_name": "ΙΟΥΛΙΑΝΟΥ",
+        "stop_code": 60921,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60921",
+        "stop_street": "ΑΧΑΡΝΩΝ",
+        "longitude": 23.7268329,
+        "latitude": 37.9916661,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60924,
+        "stop_name": "1η ΙΛΙΣΙΩΝ",
+        "stop_code": 60924,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60924",
+        "stop_street": "ΝΥΜΦΑΙΩΝ",
+        "longitude": 23.7565904,
+        "latitude": 37.9780679,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60936,
+        "stop_name": "ΠΟΣΕΙΔΩΝΑΣ",
+        "stop_code": 60936,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60936",
+        "stop_street": "ΦΟΡΜΙΩΝΟΣ",
+        "longitude": 23.7522645,
+        "latitude": 37.9697116,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60939,
+        "stop_name": "ΕΥΡΥΔΑΜΑΝΤΟΣ",
+        "stop_code": 60939,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60939",
+        "stop_street": "ΕΥΡΥΔΑΜΑΝΤΟΣ",
+        "longitude": 23.7163711,
+        "latitude": 37.9550491,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60941,
+        "stop_name": "2η ΜΠΑΚΝΑΝΑ",
+        "stop_code": 60941,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60941",
+        "stop_street": "ΜΠΑΚΝΑΝΑ",
+        "longitude": 23.7217013,
+        "latitude": 37.9542686,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60949,
+        "stop_name": "3η ΑΙΓΑΙΟΥ",
+        "stop_code": 60949,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60949",
+        "stop_street": "ΚΡΑΤΗΤΟΣ",
+        "longitude": 23.7214387,
+        "latitude": 37.9500885,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60950,
+        "stop_name": "2η ΑΙΓΑΙΟΥ",
+        "stop_code": 60950,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60950",
+        "stop_street": "ΚΡΑΤΗΤΟΣ",
+        "longitude": 23.7191503,
+        "latitude": 37.9519404,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60952,
+        "stop_name": "ΠΑΡΝΗΘΟΣ",
+        "stop_code": 60952,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60952",
+        "stop_street": "ΠΑΡΝΗΘΟΣ",
+        "longitude": 23.745228,
+        "latitude": 38.0073626,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60953,
+        "stop_name": "ΦΑΕΘΩΝΤΟΣ",
+        "stop_code": 60953,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60953",
+        "stop_street": "ΔΑΦΝΙΔΟΣ",
+        "longitude": 23.7433091,
+        "latitude": 38.0055829,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60954,
+        "stop_name": "ΠΥΘΩΝΟΣ",
+        "stop_code": 60954,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60954",
+        "stop_street": "ΔΑΦΝΙΔΟΣ",
+        "longitude": 23.7417515,
+        "latitude": 38.0047594,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60955,
+        "stop_name": "ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+        "stop_code": 60955,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60955",
+        "stop_street": "ΣΤΡ\\ΓΟΥ ΚΑΛΛΑΡΗ",
+        "longitude": 23.7235133,
+        "latitude": 38.0130944,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60962,
+        "stop_name": "ΚΥΘΝΟΥ",
+        "stop_code": 60962,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60962",
+        "stop_street": "ΚΥΘΝΟΥ",
+        "longitude": 23.736423,
+        "latitude": 38.0104887,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 60978,
+        "stop_name": "ΜΠΟΥΚΟΥΒΑΛΑ",
+        "stop_code": 60978,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60978",
+        "stop_street": "ΡΑΓΚΑΒΗ",
+        "longitude": 23.7496574,
+        "latitude": 37.991086,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61026,
+        "stop_name": "2η ΣΧΟΛΕΙΟ",
+        "stop_code": 61026,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61026",
+        "stop_street": "ΕΥΦΡΟΝΙΟΥ",
+        "longitude": 23.7563704,
+        "latitude": 37.9720957,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61060,
+        "stop_name": "ΚΛΩΝΑΡΙΔΟΥ",
+        "stop_code": 61060,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61060",
+        "stop_street": "ΠΑΤΗΣΙΩΝ",
+        "longitude": 23.7352702,
+        "latitude": 38.0150958,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61061,
+        "stop_name": "ΑΓ. ΛΟΥΚΑΣ",
+        "stop_code": 61061,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61061",
+        "stop_street": "ΠΑΤΗΣΙΩΝ",
+        "longitude": 23.7351278,
+        "latitude": 38.012703,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61071,
+        "stop_name": "ΦΑΕΘΩΝΤΟΣ",
+        "stop_code": 61071,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61071",
+        "stop_street": "ΦΑΙΔΡΙΑΔΩΝ",
+        "longitude": 23.7440943,
+        "latitude": 38.0050324,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61076,
+        "stop_name": "ΖΙΝΝΗ",
+        "stop_code": 61076,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61076",
+        "stop_street": "ΒΕΙΚΟΥ",
+        "longitude": 23.7229261,
+        "latitude": 37.9645462,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61077,
+        "stop_name": "ΚΟΥΚΑΚΙ",
+        "stop_code": 61077,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61077",
+        "stop_street": "ΒΕΙΚΟΥ",
+        "longitude": 23.7207678999999,
+        "latitude": 37.9632883,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61088,
+        "stop_name": "KOYKAKI",
+        "stop_code": 61088,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61088",
+        "stop_street": "ΔΗΜΗΤΡΑΚΟΠΟΥΛΟΥ",
+        "longitude": 23.7223381,
+        "latitude": 37.9632298,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61096,
+        "stop_name": "ΠΛ. ΠΑΓΚΡΑΤΙΟΥ",
+        "stop_code": 61096,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61096",
+        "stop_street": "ΦΡΥΝΗΣ",
+        "longitude": 23.7474464,
+        "latitude": 37.9672546,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61098,
+        "stop_name": "ΠΑΓΚΡΑΤΙ",
+        "stop_code": 61098,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61098",
+        "stop_street": "ΕΥΤΥΧΙΔΟΥ",
+        "longitude": 23.7492194,
+        "latitude": 37.9676364,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61100,
+        "stop_name": "ΠΡΟΦ. ΗΛΙΑΣ",
+        "stop_code": 61100,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61100",
+        "stop_street": "ΕΥΦΡΑΝΟΡΟΣ",
+        "longitude": 23.745974,
+        "latitude": 37.9660854,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61104,
+        "stop_name": "ΑΡΥΒΒΟΥ",
+        "stop_code": 61104,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61104",
+        "stop_street": "ΦΙΛΟΛΑΟΥ",
+        "longitude": 23.747417,
+        "latitude": 37.9636009,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61105,
+        "stop_name": "ΥΜΗΤΤΟΥ",
+        "stop_code": 61105,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61105",
+        "stop_street": "ΑΛΚΕΤΟΥ",
+        "longitude": 23.7475242999999,
+        "latitude": 37.9655119,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61120,
+        "stop_name": "ΓΕΦΥΡΕΣ",
+        "stop_code": 61120,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61120",
+        "stop_street": "ΗΟΥΣ",
+        "longitude": 23.7051577,
+        "latitude": 37.9659396,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61121,
+        "stop_name": "ΑΡΙΣΤΟΒΟΥΛΟΥ",
+        "stop_code": 61121,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61121",
+        "stop_street": "ΗΟΥΣ",
+        "longitude": 23.7069457,
+        "latitude": 37.9685012,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61122,
+        "stop_name": "ΑΓ. ΑΙΚΑΤΕΡΙΝΗ",
+        "stop_code": 61122,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61122",
+        "stop_street": "ΗΟΥΣ",
+        "longitude": 23.7079579,
+        "latitude": 37.9703484,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61123,
+        "stop_name": "ΜΠΡΑΒΟ",
+        "stop_code": 61123,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61123",
+        "stop_street": "ΗΟΥΣ",
+        "longitude": 23.7095056,
+        "latitude": 37.9732605,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61127,
+        "stop_name": "ΠΑΙΔΙΚΗ ΧΑΡΑ",
+        "stop_code": 61127,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61127",
+        "stop_street": "ΔΗΜΗΤΡΑΚΟΠΟΥΛΟΥ",
+        "longitude": 23.7196607,
+        "latitude": 37.9616416,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61132,
+        "stop_name": "ΓΕΩΡΓΟΥΛΙΑ",
+        "stop_code": 61132,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61132",
+        "stop_street": "ΣΙΒΟΡΩΝ",
+        "longitude": 23.7452015,
+        "latitude": 38.0216028,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61136,
+        "stop_name": "ΚΟΝΩΝΟΣ",
+        "stop_code": 61136,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61136",
+        "stop_street": "ΥΜΗΤΤΟΥ",
+        "longitude": 23.752248,
+        "latitude": 37.9688927,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61139,
+        "stop_name": "ΠΥΡΡΑΣ",
+        "stop_code": 61139,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61139",
+        "stop_street": "ΠΥΡΡΑΣ",
+        "longitude": 23.7194192,
+        "latitude": 37.9558482,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61151,
+        "stop_name": "1η ΡΙΖΑΡΗ",
+        "stop_code": 61151,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61151",
+        "stop_street": "ΡΙΖΑΡΗ",
+        "longitude": 23.7473705,
+        "latitude": 37.9720218,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61159,
+        "stop_name": "ΑΝΔΡΕΑΔΟΥ",
+        "stop_code": 61159,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61159",
+        "stop_street": "ΒΙΚΕΛΑ",
+        "longitude": 23.7267438,
+        "latitude": 38.017044,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61163,
+        "stop_name": "ΑΓ. ΣΠΥΡΙΔΩΝ",
+        "stop_code": 61163,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61163",
+        "stop_street": "ΕΡΑΤΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7423942,
+        "latitude": 37.9698483,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61183,
+        "stop_name": "ΠΑΛΑΙΟ ΤΕΡΜΑ",
+        "stop_code": 61183,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61183",
+        "stop_street": "ΠΡΙΓΚΙΠΟΝΝΗΣΩΝ",
+        "longitude": 23.7497448,
+        "latitude": 37.9955475,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61196,
+        "stop_name": "ΣΧΟΛΕΙΑ",
+        "stop_code": 61196,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61196",
+        "stop_street": "ΚΟΥΡΤΙΔΟΥ",
+        "longitude": 23.7226303,
+        "latitude": 38.0159278,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61198,
+        "stop_name": "ΝΟΣΟΚΟΜΕΙΟ ΕΛΠΙΔΑ",
+        "stop_code": 10524,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_10524",
+        "stop_street": "ΔΗΜΗΤΣΑΝΑΣ",
+        "longitude": 23.7562487,
+        "latitude": 37.9895313,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61225,
+        "stop_name": "ΤΑΥΓΕΤΟΥ",
+        "stop_code": 61225,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61225",
+        "stop_street": "ΚΕΑΣ",
+        "longitude": 23.7397299,
+        "latitude": 38.0095317,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61311,
+        "stop_name": "ΓΗΡΟΚΟΜΕΙΟ",
+        "stop_code": 61311,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61311",
+        "stop_street": "ΜΠΑΚΟΥ",
+        "longitude": 23.7673891,
+        "latitude": 37.9985176,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61313,
+        "stop_name": "ΠΛ. ΠΑΓΚΡΑΤΙΟΥ",
+        "stop_code": 61313,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61313",
+        "stop_street": "ΥΜΗΤΤΟΥ",
+        "longitude": 23.7505896,
+        "latitude": 37.968024,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61319,
+        "stop_name": "ΣΤ. ΠΑΝΟΡΜΟΥ",
+        "stop_code": 61319,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61319",
+        "stop_street": "ΠΑΝΟΡΜΟΥ",
+        "longitude": 23.763542,
+        "latitude": 37.9933086,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61345,
+        "stop_name": "ΙΚΑ",
+        "stop_code": 61345,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61345",
+        "stop_street": "ΑΛΚΜΗΝΗΣ",
+        "longitude": 23.7111373,
+        "latitude": 37.9748196,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61592,
+        "stop_name": "ΠΟΛΥΤΕΧΝΕΙΟ",
+        "stop_code": 61592,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61592",
+        "stop_street": "ΣΤΟΥΡΝΑΡΗ",
+        "longitude": 23.730686,
+        "latitude": 37.987529,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 61606,
+        "stop_name": "ΠΑΡΚΟ ΕΥΕΛΠΙΔΩΝ",
+        "stop_code": 61606,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_61606",
+        "stop_street": "ΕΥΕΛΠΙΔΩΝ",
+        "longitude": 23.7431122,
+        "latitude": 37.9967229,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 200052,
+        "stop_name": "ΑΛΕΞ",
+        "stop_code": 200052,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200052",
+        "stop_street": "ΠΑΠΑΔΙΑΜΑΝΤΟΠΟΥΛΟΥ",
+        "longitude": 23.7591338,
+        "latitude": 37.9802543,
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "stop_id": 70015,
+        "stop_name": "ΑΓ. ΓΕΩΡΓΙΟΣ",
+        "stop_code": 70015,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_70015",
+        "stop_street": "ΙΕΡΑΣ ΟΔΟΥ",
+        "longitude": 23.6857088,
+        "latitude": 37.990402,
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "stop_id": 70075,
+        "stop_name": "ΜΠΟΤΣΑΡΗ",
+        "stop_code": 70075,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_70075",
+        "stop_street": "ΑΛ.ΠΑΠΑΝΑΣΤΑΣΙΟΥ",
+        "longitude": 23.6816385,
+        "latitude": 37.9901644,
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "stop_id": 70076,
+        "stop_name": "ΑΛΑΤΣΑΤΩΝ",
+        "stop_code": 70076,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_70076",
+        "stop_street": "ΑΛ.ΠΑΠΑΝΑΣΤΑΣΙΟΥ",
+        "longitude": 23.6808617,
+        "latitude": 37.9880984,
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "stop_id": 70088,
+        "stop_name": "ΑΓ. ΓΕΩΡΓΙΟΣ",
+        "stop_code": 70088,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_70088",
+        "stop_street": "ΠΡΟΥΣΣΗΣ",
+        "longitude": 23.6871474,
+        "latitude": 37.9908822,
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "stop_id": 70138,
+        "stop_name": "ΠΛΑΣΤΗΡΑ",
+        "stop_code": 70138,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_70138",
+        "stop_street": "ΝΙΚ.ΠΛΑΣΤΗΡΑ",
+        "longitude": 23.6841076999999,
+        "latitude": 37.9986071,
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "stop_id": 70161,
+        "stop_name": "ΠΑΝ/ΜΙΟ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ-ΠΑΝ/ΠΟΛΗ ΑΛΣΟΥΣ ΑΙΓΑΛΕΩ",
+        "stop_code": 11124,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_11124",
+        "stop_street": "ΕΔΕΣΣΗΣ",
+        "longitude": 23.6743094,
+        "latitude": 38.0004272,
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "stop_id": 90075,
+        "stop_name": "ΕΜΠ. ΚΕΝΤΡΟ",
+        "stop_code": 90075,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_90075",
+        "stop_street": "ΑΓ.ΚΩΝΣΤΑΝΤΙΝΟΥ",
+        "longitude": 23.8042243,
+        "latitude": 38.0476862,
+        "municipality": "ΑΜΑΡΟΥΣΙΟΥ"
+    },
+    {
+        "stop_id": 90167,
+        "stop_name": "INTERAMERICAN",
+        "stop_code": 90167,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_90167",
+        "stop_street": "ΑΓ.ΚΩΝΣΤΑΝΤΙΝΟΥ",
+        "longitude": 23.8056429,
+        "latitude": 38.0471614,
+        "municipality": "ΑΜΑΡΟΥΣΙΟΥ"
+    },
+    {
+        "stop_id": 60888,
+        "stop_name": "ΕΜΠΕΔΟΚΛΕΟΥΣ",
+        "stop_code": 60888,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60888",
+        "stop_street": "ΕΜΠΕΔΟΚΛΕΟΥΣ",
+        "longitude": 23.7470247,
+        "latitude": 37.9618246,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140003,
+        "stop_name": "ΑΓΟΡΑ ΒΥΡΩΝΑ",
+        "stop_code": 140003,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140003",
+        "stop_street": "ΛΕΩΦ.ΚΥΠΡΟΥ",
+        "longitude": 23.7537418,
+        "latitude": 37.9593777,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140006,
+        "stop_name": "ΙΚΑ",
+        "stop_code": 140006,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140006",
+        "stop_street": "ΚΑΡΑΟΛΗ ΚΑΙ ΔΗΜΗΤΡΙΟΥ",
+        "longitude": 23.7614902,
+        "latitude": 37.9562186,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140022,
+        "stop_name": "ΜΑΝΩΛΗ",
+        "stop_code": 140022,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140022",
+        "stop_street": "ΚΑΙΣΑΡΕΙΑΣ",
+        "longitude": 23.7570393,
+        "latitude": 37.9585448,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140025,
+        "stop_name": "ΔΗΜΑΡΧΕΙΟ",
+        "stop_code": 140025,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140025",
+        "stop_street": "ΛΕΩΦ.ΧΡ.ΣΜΥΡΝΗΣ",
+        "longitude": 23.7528375,
+        "latitude": 37.9615409,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140026,
+        "stop_name": "ΝΕΟ ΠΑΓΚΡΑΤΙ",
+        "stop_code": 140026,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140026",
+        "stop_street": "ΝΙΚ.ΝΙΚΗΦΟΡΙΔΗ",
+        "longitude": 23.7519479,
+        "latitude": 37.9642358,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140030,
+        "stop_name": "ΦΟΥΡΝΟΣ",
+        "stop_code": 140030,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140030",
+        "stop_street": "ΚΟΛΟΚΟΤΡΩΝΗ",
+        "longitude": 23.7514878,
+        "latitude": 37.9615277,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140046,
+        "stop_name": "ΒΟΥΤΖΑ",
+        "stop_code": 140046,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140046",
+        "stop_street": "ΝΕΑΣ ΕΛΒΕΤΙΑΣ",
+        "longitude": 23.7555324,
+        "latitude": 37.9587206,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140047,
+        "stop_name": "ΠΑΛΑΙΟ ΤΕΡΜΑ",
+        "stop_code": 140047,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140047",
+        "stop_street": "ΤΜΩΛΟΥ",
+        "longitude": 23.7630696,
+        "latitude": 37.9546321,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140068,
+        "stop_name": "ΒΟΥΤΖΑ",
+        "stop_code": 140068,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140068",
+        "stop_street": "ΒΟΥΤΖΑ",
+        "longitude": 23.7553699,
+        "latitude": 37.9592968,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 140071,
+        "stop_name": "ΠΛ. ΣΜΥΡΝΗΣ",
+        "stop_code": 140071,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_140071",
+        "stop_street": "ΠΛ.ΣΜΥΡΝΗΣ",
+        "longitude": 23.751479,
+        "latitude": 37.9632832,
+        "municipality": "ΒΥΡΩΝΟΣ"
+    },
+    {
+        "stop_id": 160002,
+        "stop_name": "ΤΡΑΠΕΖΑ",
+        "stop_code": 160002,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_160002",
+        "stop_street": "ΓΡ.ΛΑΜΠΡΑΚΗ",
+        "longitude": 23.7529805,
+        "latitude": 37.8625413,
+        "municipality": "ΓΛΥΦΑΔΑΣ"
+    },
+    {
+        "stop_id": 160242,
+        "stop_name": "ΣΧΟΛΕΙΟ",
+        "stop_code": 160242,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_160242",
+        "stop_street": "ΑΓ.ΝΕΚΤΑΡΙΟΥ",
+        "longitude": 23.7748172,
+        "latitude": 37.8857306,
+        "municipality": "ΓΛΥΦΑΔΑΣ"
+    },
+    {
+        "stop_id": 160243,
+        "stop_name": "ΣΧΟΛΕΙΟ",
+        "stop_code": 160243,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_160243",
+        "stop_street": "ΑΓ.ΝΕΚΤΑΡΙΟΥ",
+        "longitude": 23.7746911,
+        "latitude": 37.8860638,
+        "municipality": "ΓΛΥΦΑΔΑΣ"
+    },
+    {
+        "stop_id": 160321,
+        "stop_name": "ΤΑΤΑΚΗ",
+        "stop_code": 160321,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_160321",
+        "stop_street": "ΓΡ.ΛΑΜΠΡΑΚΗ",
+        "longitude": 23.7554159,
+        "latitude": 37.8652233,
+        "municipality": "ΓΛΥΦΑΔΑΣ"
+    },
+    {
+        "stop_id": 160363,
+        "stop_name": "ΠΡΙΓΚΙΠΟΝΝΗΣΩΝ",
+        "stop_code": 160363,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_160363",
+        "stop_street": "ΑΓ.ΝΕΚΤΑΡΙΟΥ",
+        "longitude": 23.7769423,
+        "latitude": 37.8899797,
+        "municipality": "ΓΛΥΦΑΔΑΣ"
+    },
+    {
+        "stop_id": 160364,
+        "stop_name": "ΠΡΙΓΚΙΠΟΝΝΗΣΩΝ",
+        "stop_code": 160364,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_160364",
+        "stop_street": "ΑΓ.ΝΕΚΤΑΡΙΟΥ",
+        "longitude": 23.7767148,
+        "latitude": 37.8900244,
+        "municipality": "ΓΛΥΦΑΔΑΣ"
+    },
+    {
+        "stop_id": 110036,
+        "stop_name": "4η ΑΡΓΥΡΟΥΠΟΛΕΩΣ",
+        "stop_code": 110036,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_110036",
+        "stop_street": "ΓΕΡΟΥΛΑΝΟΥ",
+        "longitude": 23.7484025,
+        "latitude": 37.9082817,
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 110045,
+        "stop_name": "ΠΛ. ΗΡΩΩΝ ΠΟΛΥΤΕΧΝΕΙΟΥ",
+        "stop_code": 110045,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_110045",
+        "stop_street": "ΓΕΡΟΥΛΑΝΟΥ",
+        "longitude": 23.7504712,
+        "latitude": 37.9054019,
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 110055,
+        "stop_name": "ΦΑΡΜΑΚΕΙΟ",
+        "stop_code": 110055,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_110055",
+        "stop_street": "ΓΕΩΓ.ΠΑΠΑΝΔΡΕΟΥ",
+        "longitude": 23.7506458,
+        "latitude": 37.917732,
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 590042,
+        "stop_name": "ΑΡΓΟΝΑΥΤΩΝ",
+        "stop_code": 590042,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_590042",
+        "stop_street": "ΙΑΣΩΝΙΔΟΥ",
+        "longitude": 23.7516396,
+        "latitude": 37.892173,
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 590043,
+        "stop_name": "ΤΡΑΠΕΖΑ",
+        "stop_code": 590043,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_590043",
+        "stop_street": "ΙΑΣΩΝΙΔΟΥ",
+        "longitude": 23.7542373,
+        "latitude": 37.8922268,
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 590044,
+        "stop_name": "ΕΚΚΛΗΣΙΑ",
+        "stop_code": 590044,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_590044",
+        "stop_street": "ΙΑΣΩΝΙΔΟΥ",
+        "longitude": 23.7563983,
+        "latitude": 37.8922779,
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 590046,
+        "stop_name": "ΓΟΥΝΑΡΗ",
+        "stop_code": 590046,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_590046",
+        "stop_street": "ΙΑΣΩΝΙΔΟΥ",
+        "longitude": 23.7596813,
+        "latitude": 37.8925866,
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 590047,
+        "stop_name": "ΕΚΚΛΗΣΙΑ",
+        "stop_code": 590047,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_590047",
+        "stop_street": "ΙΑΣΩΝΙΔΟΥ",
+        "longitude": 23.7567474,
+        "latitude": 37.8924814,
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 590049,
+        "stop_name": "ΑΡΓΟΝΑΥΤΩΝ",
+        "stop_code": 590049,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_590049",
+        "stop_street": "ΙΑΣΩΝΙΔΟΥ",
+        "longitude": 23.7513569,
+        "latitude": 37.892344,
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 200001,
+        "stop_name": "ΕΥΔΑΠ",
+        "stop_code": 200001,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200001",
+        "stop_street": "ΙΛΙΣΙΩΝ",
+        "longitude": 23.7584888,
+        "latitude": 37.9790272,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200004,
+        "stop_name": "ΑΝΟΙΞΗ",
+        "stop_code": 200004,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200004",
+        "stop_street": "ΛΕΩΦ.ΣΤΡ\\ΧΟΥ ΠΑΠΑΓΟΥ",
+        "longitude": 23.7663236,
+        "latitude": 37.9787546,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200005,
+        "stop_name": "ΚΟΤΟΠΟΥΛΗ",
+        "stop_code": 200005,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200005",
+        "stop_street": "ΛΕΩΦ.ΣΤΡ\\ΧΟΥ ΠΑΠΑΓΟΥ",
+        "longitude": 23.7683864,
+        "latitude": 37.9781819,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200006,
+        "stop_name": "ΤΣΙΤΟΥΡΑ",
+        "stop_code": 200006,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200006",
+        "stop_street": "ΛΕΩΦ.ΣΤΡ\\ΧΟΥ ΠΑΠΑΓΟΥ",
+        "longitude": 23.7696513,
+        "latitude": 37.9778509,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200010,
+        "stop_name": "9η ΖΩΓΡΑΦΟΥ",
+        "stop_code": 200010,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200010",
+        "stop_street": "ΚΟΥΣΙΔΟΥ",
+        "longitude": 23.7782717,
+        "latitude": 37.9739558,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200011,
+        "stop_name": "10η ΖΩΓΡΑΦΟΥ",
+        "stop_code": 200011,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200011",
+        "stop_street": "ΚΟΥΣΙΔΟΥ",
+        "longitude": 23.7800486,
+        "latitude": 37.9721824,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200013,
+        "stop_name": "10η ΖΩΓΡΑΦΟΥ",
+        "stop_code": 200013,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200013",
+        "stop_street": "ΗΡΩΩΝ ΠΟΛΥΤΕΧΝΕΙΟΥ",
+        "longitude": 23.7802628,
+        "latitude": 37.974221,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200014,
+        "stop_name": "9η ΖΩΓΡΑΦΟΥ",
+        "stop_code": 200014,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200014",
+        "stop_street": "ΗΡΩΩΝ ΠΟΛΥΤΕΧΝΕΙΟΥ",
+        "longitude": 23.7781239,
+        "latitude": 37.976086,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200018,
+        "stop_name": "ΤΣΙΤΟΥΡΑ",
+        "stop_code": 200018,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200018",
+        "stop_street": "ΛΕΩΦ.ΣΤΡ\\ΧΟΥ ΠΑΠΑΓΟΥ",
+        "longitude": 23.7697873,
+        "latitude": 37.9780584,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200020,
+        "stop_name": "ΙΚΑ",
+        "stop_code": 200020,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200020",
+        "stop_street": "ΛΕΩΦ.ΣΤΡ\\ΧΟΥ ΠΑΠΑΓΟΥ",
+        "longitude": 23.7620198,
+        "latitude": 37.9801751,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200029,
+        "stop_name": "ΙΚΑ",
+        "stop_code": 200029,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200029",
+        "stop_street": "ΠΑΠΑΔΙΑΜΑΝΤΟΠΟΥΛΟΥ",
+        "longitude": 23.7605347999999,
+        "latitude": 37.9801219,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200030,
+        "stop_name": "ΓΙΑΝΝΟΠΟΥΛΟΥ",
+        "stop_code": 200030,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200030",
+        "stop_street": "ΠΑΠΑΔΙΑΜΑΝΤΟΠΟΥΛΟΥ",
+        "longitude": 23.7627988,
+        "latitude": 37.9807484,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200031,
+        "stop_name": "ΑΓ. ΘΩΜΑΣ",
+        "stop_code": 200031,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200031",
+        "stop_street": "ΠΑΠΑΔΙΑΜΑΝΤΟΠΟΥΛΟΥ",
+        "longitude": 23.7657552,
+        "latitude": 37.9820612,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200038,
+        "stop_name": "2η ΙΛΙΣΙΩΝ",
+        "stop_code": 200038,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200038",
+        "stop_street": "ΛΕΩΦ.ΓΡΗΓ.ΑΥΞΕΝΤΙΟΥ",
+        "longitude": 23.7595611,
+        "latitude": 37.9769666,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200040,
+        "stop_name": "4η ΙΛΙΣΙΩΝ",
+        "stop_code": 200040,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200040",
+        "stop_street": "ΛΕΩΦ.ΓΡΗΓ.ΑΥΞΕΝΤΙΟΥ",
+        "longitude": 23.7645662,
+        "latitude": 37.9751781,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200042,
+        "stop_name": "6η ΙΛΙΣΙΩΝ",
+        "stop_code": 200042,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200042",
+        "stop_street": "ΜΟΥΣΚΟΥ",
+        "longitude": 23.7675614,
+        "latitude": 37.9725832,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200043,
+        "stop_name": "7η ΙΛΙΣΙΩΝ",
+        "stop_code": 200043,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200043",
+        "stop_street": "ΕΘΝ.ΑΝΤΙΣΤΑΣΕΩΣ",
+        "longitude": 23.7703532,
+        "latitude": 37.9718316,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200048,
+        "stop_name": "4η ΙΛΙΣΙΩΝ",
+        "stop_code": 200048,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200048",
+        "stop_street": "ΛΕΩΦ.ΓΡΗΓ.ΑΥΞΕΝΤΙΟΥ",
+        "longitude": 23.7645884,
+        "latitude": 37.9752877,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200050,
+        "stop_name": "2η ΙΛΙΣΙΩΝ",
+        "stop_code": 200050,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200050",
+        "stop_street": "ΛΕΩΦ.ΓΡΗΓ.ΑΥΞΕΝΤΙΟΥ",
+        "longitude": 23.7600555,
+        "latitude": 37.9769665,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200057,
+        "stop_name": "ΚΤΙΡΙΑ ΗΛΕΚ/ΓΩΝ-ΜΕΤΑΛ/ΓΩΝ",
+        "stop_code": 200057,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200057",
+        "stop_street": "ΕΝΤΟΣ ΠΟΛΥΤΕΧΝΕΙΟΥΠΟΛΗΣ",
+        "longitude": 23.7839746,
+        "latitude": 37.9742188,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200058,
+        "stop_name": "3η ΙΛΙΣΙΩΝ",
+        "stop_code": 200058,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200058",
+        "stop_street": "ΛΕΩΦ.ΓΡΗΓ.ΑΥΞΕΝΤΙΟΥ",
+        "longitude": 23.7626959,
+        "latitude": 37.9758492,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200059,
+        "stop_name": "3η ΙΛΙΣΙΩΝ",
+        "stop_code": 200059,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200059",
+        "stop_street": "ΛΕΩΦ.ΓΡΗΓ.ΑΥΞΕΝΤΙΟΥ",
+        "longitude": 23.7622414,
+        "latitude": 37.9758861,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200065,
+        "stop_name": "2η ΖΩΓΡΑΦΟΥ",
+        "stop_code": 200065,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200065",
+        "stop_street": "ΛΕΩΦ.ΣΤΡ\\ΧΟΥ ΠΑΠΑΓΟΥ",
+        "longitude": 23.7645411,
+        "latitude": 37.9794109,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200066,
+        "stop_name": "ΙΚΑ",
+        "stop_code": 200066,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200066",
+        "stop_street": "ΛΕΩ. ΓΕΩΡ.ΠΑΠΑΝΔΡΕΟΥ",
+        "longitude": 23.7620968,
+        "latitude": 37.9794942,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200073,
+        "stop_name": "ΥΠΕΡΑΓΟΡΑ",
+        "stop_code": 200073,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200073",
+        "stop_street": "ΟΥΛΩΦ ΠΑΛΜΕ",
+        "longitude": 23.7616967,
+        "latitude": 37.9764561,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 200086,
+        "stop_name": "ΛΑΙΚΟ ΝΟΣΟΚΟΜΕΙΟ",
+        "stop_code": 200086,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_200086",
+        "stop_street": "ΛΕΩΦ.ΓΕΩΡ.ΠΑΠΑΝΔΡΕΟΥ",
+        "longitude": 23.766796,
+        "latitude": 37.9805942,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 230011,
+        "stop_name": "9η ΚΑΙΣΑΡΙΑΝΗΣ",
+        "stop_code": 230011,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230011",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ",
+        "longitude": 23.7630668,
+        "latitude": 37.9674387,
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "stop_id": 210022,
+        "stop_name": "ΠΑΠΑΓΟΥ",
+        "stop_code": 210022,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_210022",
+        "stop_street": "ΑΛ.ΠΑΝΑΓΟΥΛΗ",
+        "longitude": 23.7597323,
+        "latitude": 37.9433567,
+        "municipality": "ΗΛΙΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 210026,
+        "stop_name": "ΓΙΩΡΓΟΥ",
+        "stop_code": 210026,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_210026",
+        "stop_street": "ΔΗΜΟΚΡΑΤΙΑΣ",
+        "longitude": 23.7514223,
+        "latitude": 37.9472961,
+        "municipality": "ΗΛΙΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 60750,
+        "stop_name": "ΡΙΖΑΡΗ",
+        "stop_code": 60750,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60750",
+        "stop_street": "ΡΙΖΑΡΗ",
+        "longitude": 23.7467257,
+        "latitude": 37.9733791,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 60755,
+        "stop_name": "ΒΡΥΣΑΚΙ",
+        "stop_code": 60755,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60755",
+        "stop_street": "ΦΟΡΜΙΩΝΟΣ",
+        "longitude": 23.7502131,
+        "latitude": 37.9719192,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 60756,
+        "stop_name": "ΒΡΥΣΑΚΙ",
+        "stop_code": 60756,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60756",
+        "stop_street": "ΕΥΦΡΟΝΙΟΥ",
+        "longitude": 23.7515408,
+        "latitude": 37.9726228,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 60763,
+        "stop_name": "ΝΟΣΟΚ. ΣΥΓΓΡΟΥ",
+        "stop_code": 60763,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_60763",
+        "stop_street": "ΒΑΣ.ΑΛΕΞΑΝΔΡΟΥ",
+        "longitude": 23.7515165,
+        "latitude": 37.9735759,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230008,
+        "stop_name": "ΦΑΡΜΑΚΕΙΟ",
+        "stop_code": 230008,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230008",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ",
+        "longitude": 23.7561272,
+        "latitude": 37.968774,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230009,
+        "stop_name": "ΠΑΝΑΓΙΤΣΑ",
+        "stop_code": 230009,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230009",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ",
+        "longitude": 23.7589849,
+        "latitude": 37.9682154,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230012,
+        "stop_name": "10η ΚΑΙΣΑΡΙΑΝΗΣ",
+        "stop_code": 230012,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230012",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ",
+        "longitude": 23.7650869,
+        "latitude": 37.967056,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230016,
+        "stop_name": "11η ΚΑΙΣΑΡΙΑΝΗΣ",
+        "stop_code": 230016,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230016",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ",
+        "longitude": 23.7675978,
+        "latitude": 37.9667968,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230017,
+        "stop_name": "10η ΚΑΙΣΑΡΙΑΝΗΣ",
+        "stop_code": 230017,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230017",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ",
+        "longitude": 23.7652631,
+        "latitude": 37.9671971,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230018,
+        "stop_name": "9η ΚΑΙΣΑΡΙΑΝΗΣ",
+        "stop_code": 230018,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230018",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ",
+        "longitude": 23.7631474,
+        "latitude": 37.9675893,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230019,
+        "stop_name": "8η ΚΑΙΣΑΡΙΑΝΗΣ",
+        "stop_code": 230019,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230019",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ",
+        "longitude": 23.7613315,
+        "latitude": 37.9679333,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230020,
+        "stop_name": "ΠΑΝΑΓΙΤΣΑ",
+        "stop_code": 230020,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230020",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ",
+        "longitude": 23.7591899,
+        "latitude": 37.9683315,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230021,
+        "stop_name": "ΦΑΡΜΑΚΕΙΟ",
+        "stop_code": 230021,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230021",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ",
+        "longitude": 23.7568898,
+        "latitude": 37.968787,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230025,
+        "stop_name": "2η ΣΧΟΛΕΙΟ",
+        "stop_code": 230025,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230025",
+        "stop_street": "ΕΥΦΡΟΝΙΟΥ",
+        "longitude": 23.7569849,
+        "latitude": 37.9719152,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230031,
+        "stop_name": "ΔΗΜΑΡΧΕΙΟ",
+        "stop_code": 230031,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230031",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ",
+        "longitude": 23.754026,
+        "latitude": 37.9691833,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230035,
+        "stop_name": "ΑΓ. ΝΙΚΟΛΑΟΣ",
+        "stop_code": 230035,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230035",
+        "stop_street": "ΥΜΗΤΤΟΥ",
+        "longitude": 23.7540278,
+        "latitude": 37.9699442,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 230036,
+        "stop_name": "ΠΑΛ. ΤΕΡΜΑ",
+        "stop_code": 230036,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_230036",
+        "stop_street": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΗΣ",
+        "longitude": 23.7700507,
+        "latitude": 37.9666306,
+        "municipality": "ΚΑΙΣΑΡΙΑΝΗΣ"
+    },
+    {
+        "stop_id": 240028,
+        "stop_name": "ΑΓ. ΠΑΝΤΩΝ",
+        "stop_code": 240028,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240028",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7104693,
+        "latitude": 37.9564587,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240029,
+        "stop_name": "ΔΗΜΗΤΡΑΚΟΠΟΥΛΟΥ",
+        "stop_code": 240029,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240029",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7082216,
+        "latitude": 37.9549029,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240030,
+        "stop_name": "ΔΑΒΑΚΗ",
+        "stop_code": 240030,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240030",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7054634,
+        "latitude": 37.9529583,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240031,
+        "stop_name": "ΣΚΡΑ",
+        "stop_code": 240031,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240031",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7028298,
+        "latitude": 37.9511852,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240032,
+        "stop_name": "ΣΠΑΡΤΗ",
+        "stop_code": 240032,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240032",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7002306,
+        "latitude": 37.949376,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240033,
+        "stop_name": "9η ΚΑΛΛΙΘΕΑΣ",
+        "stop_code": 240033,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240033",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.6972349,
+        "latitude": 37.9471331,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240042,
+        "stop_name": "10η ΚΑΛΛΙΘΕΑΣ",
+        "stop_code": 240042,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240042",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.6958974,
+        "latitude": 37.9457957,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240043,
+        "stop_name": "9η ΚΑΛΛΙΘΕΑΣ",
+        "stop_code": 240043,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240043",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.6977921,
+        "latitude": 37.9472697,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240044,
+        "stop_name": "ΣΠΑΡΤΗ",
+        "stop_code": 240044,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240044",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7009357,
+        "latitude": 37.949513,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240045,
+        "stop_name": "ΣΚΡΑ",
+        "stop_code": 240045,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240045",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7024796,
+        "latitude": 37.9505083,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240046,
+        "stop_name": "ΔΑΒΑΚΗ",
+        "stop_code": 240046,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240046",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7059073,
+        "latitude": 37.9529594,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240047,
+        "stop_name": "ΔΗΜΗΤΡΑΚΟΠΟΥΛΟΥ",
+        "stop_code": 240047,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240047",
+        "stop_street": "ΔΗΜΟΣΘΕΝΟΥΣ",
+        "longitude": 23.7082684,
+        "latitude": 37.9545876,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240050,
+        "stop_name": "ΚΑΡΑΓΙΑΝΝΗ",
+        "stop_code": 240050,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240050",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7114043,
+        "latitude": 37.9618597,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240051,
+        "stop_name": "ΔΗΜΟΤΙΚΟΥ ΣΤΑΔΙΟΥ",
+        "stop_code": 240051,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240051",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7143731,
+        "latitude": 37.9624889,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240054,
+        "stop_name": "1η ΧΑΡΟΚΟΠΟΥ",
+        "stop_code": 240054,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240054",
+        "stop_street": "ΧΑΡΟΚΟΠΟΥ",
+        "longitude": 23.7125951,
+        "latitude": 37.9557852,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240062,
+        "stop_name": "ΠΛ. ΔΑΒΑΚΗ",
+        "stop_code": 240062,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240062",
+        "stop_street": "ΔΑΒΑΚΗ",
+        "longitude": 23.7023115,
+        "latitude": 37.955501,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240064,
+        "stop_name": "ΙΚΑ",
+        "stop_code": 240064,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240064",
+        "stop_street": "ΔΑΒΑΚΗ",
+        "longitude": 23.7065385,
+        "latitude": 37.9516541,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240065,
+        "stop_name": "ΙΚΑ",
+        "stop_code": 240065,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240065",
+        "stop_street": "ΔΑΒΑΚΗ",
+        "longitude": 23.7070852,
+        "latitude": 37.9515744,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240067,
+        "stop_name": "ΔΕΗ",
+        "stop_code": 240067,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240067",
+        "stop_street": "ΔΑΒΑΚΗ",
+        "longitude": 23.7043205,
+        "latitude": 37.9541181,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240068,
+        "stop_name": "ΠΛ. ΔΑΒΑΚΗ",
+        "stop_code": 240068,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240068",
+        "stop_street": "ΔΑΒΑΚΗ",
+        "longitude": 23.7026643,
+        "latitude": 37.955529,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240072,
+        "stop_name": "ΑΘΗΝΑΣ",
+        "stop_code": 240072,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240072",
+        "stop_street": "ΔΟΙΡΑΝΗΣ",
+        "longitude": 23.7012232,
+        "latitude": 37.9459806,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240074,
+        "stop_name": "ΦΑΡΟΣ ΤΥΦΛΩΝ",
+        "stop_code": 240074,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240074",
+        "stop_street": "ΑΘΗΝΑΣ",
+        "longitude": 23.699971,
+        "latitude": 37.9460315,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240078,
+        "stop_name": "ΔΗΜΟΤΙΚΟΥ ΣΤΑΔΙΟΥ",
+        "stop_code": 240078,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240078",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7145535,
+        "latitude": 37.9629309,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240079,
+        "stop_name": "ΚΑΡΑΓΙΑΝΝΗ",
+        "stop_code": 240079,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240079",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7100956,
+        "latitude": 37.9617484,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240080,
+        "stop_name": "ΧΑΡΟΚΟΠΟΥ",
+        "stop_code": 240080,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240080",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7074279,
+        "latitude": 37.9598671,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240082,
+        "stop_name": "ΔΗΜΗΤΡΑΚΟΠΟΥΛΟΥ",
+        "stop_code": 240082,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240082",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7045784,
+        "latitude": 37.9579132,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240083,
+        "stop_name": "ΚΑΛΛΙΘΕΑ",
+        "stop_code": 240083,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240083",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7033186,
+        "latitude": 37.9569997,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240086,
+        "stop_name": "Κ.Ε.Α.Τ. ΠΡ. ΟΙΚΟΣ ΤΥΦΛΩΝ",
+        "stop_code": 240086,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240086",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6956597,
+        "latitude": 37.9523075,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240087,
+        "stop_name": "ΑΓ. ΕΛΕΟΥΣΑ",
+        "stop_code": 240087,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240087",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6935636,
+        "latitude": 37.9514228,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240088,
+        "stop_name": "ΠΥΡΟΣΒΕΣΤΙΚΗ",
+        "stop_code": 240088,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240088",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6907719,
+        "latitude": 37.9494506,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240090,
+        "stop_name": "ΤΖΙΤΖΙΦΙΕΣ",
+        "stop_code": 240090,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240090",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6848455,
+        "latitude": 37.9432701,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240091,
+        "stop_name": "ΠΕΙΣΙΣΤΡΑΤΟΥ",
+        "stop_code": 240091,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240091",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6857652,
+        "latitude": 37.9437863,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240093,
+        "stop_name": "ΠΥΡΟΣΒΕΣΤΙΚΗ",
+        "stop_code": 240093,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240093",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6911605,
+        "latitude": 37.9490641,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240094,
+        "stop_name": "ΑΓ. ΕΛΕΟΥΣΑ",
+        "stop_code": 240094,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240094",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6938725,
+        "latitude": 37.951045,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240095,
+        "stop_name": "Κ.Ε.Α.Τ. ΠΡ. ΟΙΚΟΣ ΤΥΦΛΩΝ",
+        "stop_code": 240095,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240095",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6963715,
+        "latitude": 37.9522773,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240096,
+        "stop_name": "ΣΚΡΑ",
+        "stop_code": 240096,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240096",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6989842,
+        "latitude": 37.9535728,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240097,
+        "stop_name": "ΠΛ. ΔΑΒΑΚΗ",
+        "stop_code": 240097,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240097",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7017423,
+        "latitude": 37.9555266,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240098,
+        "stop_name": "ΚΑΛΛΙΘΕΑ",
+        "stop_code": 240098,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240098",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7037403,
+        "latitude": 37.9568656,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240099,
+        "stop_name": "ΑΓ. ΠΑΝΤΕΣ",
+        "stop_code": 240099,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240099",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7055226,
+        "latitude": 37.9580868,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240100,
+        "stop_name": "ΧΑΡΟΚΟΠΟΥ",
+        "stop_code": 240100,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240100",
+        "stop_street": "ΕΛ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.7084953,
+        "latitude": 37.9602153,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240104,
+        "stop_name": "2η ΧΑΡΟΚΟΠΟΥ",
+        "stop_code": 240104,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240104",
+        "stop_street": "ΧΑΡΟΚΟΠΟΥ",
+        "longitude": 23.7100409,
+        "latitude": 37.9583053,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240113,
+        "stop_name": "ΑΓ. ΠΑΝΤΩΝ",
+        "stop_code": 240113,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240113",
+        "stop_street": "ΑΓ.ΠΑΝΤΩΝ",
+        "longitude": 23.7072608,
+        "latitude": 37.9589474,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240114,
+        "stop_name": "2η ΑΓ. ΠΑΝΤΩΝ",
+        "stop_code": 240114,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240114",
+        "stop_street": "ΑΓ.ΠΑΝΤΩΝ",
+        "longitude": 23.7098198,
+        "latitude": 37.9566284,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 240115,
+        "stop_name": "1η ΧΑΡΟΚΟΠΟΥ",
+        "stop_code": 240115,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_240115",
+        "stop_street": "ΑΓ.ΠΑΝΤΩΝ",
+        "longitude": 23.711705,
+        "latitude": 37.9548484,
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "stop_id": 320003,
+        "stop_name": "Λ. ΚΑΤΣΩΝΗ",
+        "stop_code": 320003,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_320003",
+        "stop_street": "ΧΡ.ΣΜΥΡΝΗΣ",
+        "longitude": 23.6801778,
+        "latitude": 37.9488545,
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "stop_id": 320017,
+        "stop_name": "ΜΕΤΑΜΟΡΦΩΣΕΩΣ ΤΟΥ ΣΩΤΗΡΟΣ",
+        "stop_code": 320017,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_320017",
+        "stop_street": "ΜΑΚΡΥΓΙΑΝΝΗ",
+        "longitude": 23.679047,
+        "latitude": 37.9524025,
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "stop_id": 320018,
+        "stop_name": "ΤΡΑΠΕΖΑ",
+        "stop_code": 320018,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_320018",
+        "stop_street": "ΜΑΚΡΥΓΙΑΝΝΗ",
+        "longitude": 23.6784179,
+        "latitude": 37.950481,
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "stop_id": 320050,
+        "stop_name": "ΛΑΜΠΡΟΥ ΚΑΤΣΩΝΗ",
+        "stop_code": 320050,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_320050",
+        "stop_street": "ΜΑΚΡΥΓΙΑΝΝΗ",
+        "longitude": 23.6777114,
+        "latitude": 37.9480637,
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "stop_id": 320051,
+        "stop_name": "ΜΑΚΡΥΓΙΑΝΝΗ",
+        "stop_code": 320051,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_320051",
+        "stop_street": "ΜΑΚΡΥΓΙΑΝΝΗ",
+        "longitude": 23.6770259,
+        "latitude": 37.9460699,
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "stop_id": 450001,
+        "stop_name": "ΣΤΡΟΦΗ",
+        "stop_code": 450001,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_450001",
+        "stop_street": "ΓΡ.ΛΑΜΠΡΑΚΗ",
+        "longitude": 23.7040727,
+        "latitude": 37.9648068,
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "stop_id": 330037,
+        "stop_name": "4η ΠΕΡΙΣΣΟΥ",
+        "stop_code": 330037,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_330037",
+        "stop_street": "ΓΡΕΒΕΝΩΝ",
+        "longitude": 23.7532975,
+        "latitude": 38.0331294,
+        "municipality": "ΝΕΑΣ ΙΩΝΙΑΣ"
+    },
+    {
+        "stop_id": 340001,
+        "stop_name": "ΣΤΡΟΦΗ Ν.ΣΜΥΡΝΗΣ",
+        "stop_code": 340001,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_340001",
+        "stop_street": "ΧΡ.ΣΜΥΡΝΗΣ",
+        "longitude": 23.7092464,
+        "latitude": 37.9490381,
+        "municipality": "ΝΕΑΣ ΣΜΥΡΝΗΣ"
+    },
+    {
+        "stop_id": 340017,
+        "stop_name": "ΘΡΑΚΗΣ",
+        "stop_code": 340017,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_340017",
+        "stop_street": "ΑΓ.ΦΩΤΕΙΝΗΣ",
+        "longitude": 23.7126869,
+        "latitude": 37.9482174,
+        "municipality": "ΝΕΑΣ ΣΜΥΡΝΗΣ"
+    },
+    {
+        "stop_id": 40082,
+        "stop_name": "6η ΑΓ. ΒΑΡΒΑΡΑΣ",
+        "stop_code": 40082,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_40082",
+        "stop_street": "ΑΓ.ΒΑΡΒΑΡΑΣ",
+        "longitude": 23.7217569,
+        "latitude": 37.924409,
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "stop_id": 340041,
+        "stop_name": "ΝΕΚΡ. ΦΑΛΗΡΟΥ",
+        "stop_code": 340041,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_340041",
+        "stop_street": "ΑΓ.ΣΟΦΙΑΣ",
+        "longitude": 23.7137901,
+        "latitude": 37.9308431,
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "stop_id": 380019,
+        "stop_name": "ΠΕΥΚΑ",
+        "stop_code": 380019,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_380019",
+        "stop_street": "ΠΕΝΤΕΛΗΣ",
+        "longitude": 23.6997586,
+        "latitude": 37.9422996,
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "stop_id": 380029,
+        "stop_name": "ΤΕΡΨΙΧΟΡΗΣ",
+        "stop_code": 380029,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_380029",
+        "stop_street": "ΑΦΡΟΔΙΤΗΣ",
+        "longitude": 23.6977754,
+        "latitude": 37.9263237,
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "stop_id": 380031,
+        "stop_name": "ΑΙΑΝΤΟΣ",
+        "stop_code": 380031,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_380031",
+        "stop_street": "ΑΦΡΟΔΙΤΗΣ",
+        "longitude": 23.7022318,
+        "latitude": 37.9244784,
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "stop_id": 380125,
+        "stop_name": "ΟΤΕ ΠΑΛ. ΦΑΛΗΡΟΥ",
+        "stop_code": 380125,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_380125",
+        "stop_street": "ΝΑΙΑΔΩΝ",
+        "longitude": 23.7029159,
+        "latitude": 37.9257731,
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "stop_id": 490020,
+        "stop_name": "1η ΣΧΟΛΕΙΩΝ ΧΟΛΑΡΓΟΥ",
+        "stop_code": 490020,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_490020",
+        "stop_street": "ΣΑΡΑΝΤΑΠΟΡΟΥ",
+        "longitude": 23.7933207,
+        "latitude": 37.9991742,
+        "municipality": "ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ"
+    },
+    {
+        "stop_id": 710004,
+        "stop_name": "ΣΤΡΑΤΟΠΕΔΟ",
+        "stop_code": 710004,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_710004",
+        "stop_street": "ΚΥΠΡΟΥ",
+        "longitude": 23.7870382,
+        "latitude": 37.9967773,
+        "municipality": "ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ"
+    },
+    {
+        "stop_id": 640009,
+        "stop_name": "ΔΙΑΣΤΑΥΡΩΣΗ",
+        "stop_code": 640009,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_640009",
+        "stop_street": "Π.ΤΣΑΛΔΑΡΗ",
+        "longitude": 23.8390907,
+        "latitude": 38.0519233,
+        "municipality": "ΠΕΝΤΕΛΗΣ"
+    },
+    {
+        "stop_id": 640010,
+        "stop_name": "ΓΟΥΝΑΡΗ",
+        "stop_code": 640010,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_640010",
+        "stop_street": "Π.ΤΣΑΛΔΑΡΗ",
+        "longitude": 23.8408446,
+        "latitude": 38.0529736,
+        "municipality": "ΠΕΝΤΕΛΗΣ"
+    },
+    {
+        "stop_id": 640011,
+        "stop_name": "ΠΑΠΑΔΗΜΗΤΡΙΟΥ",
+        "stop_code": 640011,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_640011",
+        "stop_street": "Π.ΤΣΑΛΔΑΡΗ",
+        "longitude": 23.8425383,
+        "latitude": 38.0539931,
+        "municipality": "ΠΕΝΤΕΛΗΣ"
+    },
+    {
+        "stop_id": 670012,
+        "stop_name": "ΠΛ. Ν. ΠΕΝΤΕΛΗΣ",
+        "stop_code": 670012,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_670012",
+        "stop_street": "ΠΛ.ΗΡΩΩΝ ΠΟΛΥΤΕΧΝΕΙΟΥ",
+        "longitude": 23.8578069,
+        "latitude": 38.059187,
+        "municipality": "ΠΕΝΤΕΛΗΣ"
+    },
+    {
+        "stop_id": 420054,
+        "stop_name": "1η ΧΡΥΣΟΥΠΟΛΕΩΣ",
+        "stop_code": 420054,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420054",
+        "stop_street": "ΙΩΑΝΝΙΝΩΝ",
+        "longitude": 23.6812756,
+        "latitude": 38.0266563,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420070,
+        "stop_name": "ΔΩΔΕΚΑΝΗΣΟΥ",
+        "stop_code": 420070,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420070",
+        "stop_street": "ΔΩΔΕΚΑΝΗΣΟΥ",
+        "longitude": 23.6880449,
+        "latitude": 38.0155887,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420088,
+        "stop_name": "ΙΚΑ",
+        "stop_code": 420088,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420088",
+        "stop_street": "ΒΑΣ.ΑΛΕΞΑΝΔΡΟΥ",
+        "longitude": 23.6905914,
+        "latitude": 38.0114316,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420101,
+        "stop_name": "ΕΚΑΤΟΔΕΝΔΡΑ",
+        "stop_code": 420101,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420101",
+        "stop_street": "ΠΕΛΑΣΓΙΑΣ",
+        "longitude": 23.6866738,
+        "latitude": 38.0118785,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420102,
+        "stop_name": "ΙΚΑ",
+        "stop_code": 420102,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420102",
+        "stop_street": "ΒΑΣ.ΑΛΕΞΑΝΔΡΟΥ",
+        "longitude": 23.6904667,
+        "latitude": 38.011287,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420146,
+        "stop_name": "ΧΑΝΤΖΙΝΑ",
+        "stop_code": 420146,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420146",
+        "stop_street": "ΠΑΛ.ΚΑΒΑΛΑΣ",
+        "longitude": 23.6785336,
+        "latitude": 38.004892,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420152,
+        "stop_name": "ΧΑΝΤΖΙΝΑ",
+        "stop_code": 420152,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420152",
+        "stop_street": "ΠΑΛ.ΚΑΒΑΛΑΣ",
+        "longitude": 23.6783036,
+        "latitude": 38.005378,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420153,
+        "stop_name": "ΑΝΑΓΝΩΣΤΑΡΑ",
+        "stop_code": 420153,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420153",
+        "stop_street": "ΦΙΛΙΚΩΝ",
+        "longitude": 23.7001769,
+        "latitude": 38.0041483,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420155,
+        "stop_name": "ΑΛΕΞΑΝΔΡΑΣ",
+        "stop_code": 420155,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420155",
+        "stop_street": "ΤΖΩΝ ΚΕΝΝΕΝΤΥ",
+        "longitude": 23.6793886,
+        "latitude": 38.0099415,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420156,
+        "stop_name": "ΓΥΜΝΑΣΙΟ",
+        "stop_code": 420156,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420156",
+        "stop_street": "ΤΖΩΝ ΚΕΝΝΕΝΤΥ",
+        "longitude": 23.681721,
+        "latitude": 38.007974,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420166,
+        "stop_name": "ΑΓ. ΚΗΡΥΚΟΣ",
+        "stop_code": 420166,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420166",
+        "stop_street": "ΑΞΑΡΙΟΥ",
+        "longitude": 23.6894149,
+        "latitude": 38.0229919,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420189,
+        "stop_name": "ΠΛ. ΔΑΣΚΑΛΟΓΙΑΝΝΗ",
+        "stop_code": 420189,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420189",
+        "stop_street": "ΠΛ.ΔΑΣΚΑΛΟΓΙΑΝΝΗ",
+        "longitude": 23.7055101,
+        "latitude": 38.0153454,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420196,
+        "stop_name": "ΕΚΑΤΟΔΕΝΔΡΑ",
+        "stop_code": 420196,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420196",
+        "stop_street": "ΠΕΛΑΣΓΙΑΣ",
+        "longitude": 23.6867043,
+        "latitude": 38.0120341,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420201,
+        "stop_name": "9η ΖΩΟΔΟΧΟΥ ΠΗΓΗΣ",
+        "stop_code": 420201,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420201",
+        "stop_street": "ΛΕΩΦ.ΒΕΝΙΖΕΛΟΥ",
+        "longitude": 23.6999882,
+        "latitude": 38.0132656,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420208,
+        "stop_name": "3η ΖΩΟΔΟΧΟΥ ΠΗΓΗΣ",
+        "stop_code": 420208,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420208",
+        "stop_street": "ΑΓ.ΠΑΡΑΣΚΕΥΗΣ",
+        "longitude": 23.7065336,
+        "latitude": 38.0072274,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420226,
+        "stop_name": "ΑΡΓΥΡΟΚΑΣΤΡΟΥ",
+        "stop_code": 420226,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420226",
+        "stop_street": "ΑΞΑΡΙΟΥ",
+        "longitude": 23.6866587,
+        "latitude": 38.0227592,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420246,
+        "stop_name": "ΦΟΥΡΝΟΣ",
+        "stop_code": 420246,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420246",
+        "stop_street": "ΠΑΛ.ΚΑΒΑΛΑΣ",
+        "longitude": 23.6811462,
+        "latitude": 38.0039257,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420253,
+        "stop_name": "ΖΑΛΟΚΩΣΤΑ",
+        "stop_code": 420253,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420253",
+        "stop_street": "ΠΑΡΑΣΚΕΥΟΠΟΥΛΟΥ",
+        "longitude": 23.7033955,
+        "latitude": 38.0114375,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 420288,
+        "stop_name": "ΤΑΞΙΑΡΧΗΣ",
+        "stop_code": 420288,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_420288",
+        "stop_street": "ΣΑΡΑΝΤΑΠΟΡΟΥ",
+        "longitude": 23.6909579,
+        "latitude": 38.0109639,
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "stop_id": 430003,
+        "stop_name": "ΔΗΜΑΡΧΕΙΟ",
+        "stop_code": 430003,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_430003",
+        "stop_street": "25ης ΜΑΡΤΙΟΥ",
+        "longitude": 23.6880077,
+        "latitude": 38.0406049,
+        "municipality": "ΠΕΤΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 430004,
+        "stop_name": "ΠΑΛ. ΤΕΡΜΑ",
+        "stop_code": 430004,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_430004",
+        "stop_street": "25ης ΜΑΡΤΙΟΥ",
+        "longitude": 23.6847067,
+        "latitude": 38.0422306,
+        "municipality": "ΠΕΤΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 430010,
+        "stop_name": "ΠΑΛ. ΤΕΡΜΑ",
+        "stop_code": 430010,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_430010",
+        "stop_street": "25ης ΜΑΡΤΙΟΥ",
+        "longitude": 23.6852191,
+        "latitude": 38.0417479,
+        "municipality": "ΠΕΤΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "stop_id": 690004,
+        "stop_name": "ΑΣΤΕΡΙΑ",
+        "stop_code": 690004,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_690004",
+        "stop_street": "25ης ΜΑΡΤΙΟΥ",
+        "longitude": 23.7844684,
+        "latitude": 38.0039081,
+        "municipality": "ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ"
+    },
+    {
+        "stop_id": 690005,
+        "stop_name": "ΠΑΛΑΜΑ",
+        "stop_code": 690005,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_690005",
+        "stop_street": "25ης ΜΑΡΤΙΟΥ",
+        "longitude": 23.7858299,
+        "latitude": 38.0057492,
+        "municipality": "ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ"
+    },
+    {
+        "stop_id": 690009,
+        "stop_name": "ΠΑΛΑΜΑ",
+        "stop_code": 690009,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_690009",
+        "stop_street": "25ης ΜΑΡΤΙΟΥ",
+        "longitude": 23.7856589,
+        "latitude": 38.005821,
+        "municipality": "ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ"
+    },
+    {
+        "stop_id": 690010,
+        "stop_name": "ΑΣΤΕΡΙΑ",
+        "stop_code": 690010,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_690010",
+        "stop_street": "25ης ΜΑΡΤΙΟΥ",
+        "longitude": 23.7844448,
+        "latitude": 38.0042055,
+        "municipality": "ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ"
+    },
+    {
+        "stop_id": 690031,
+        "stop_name": "ΣΚΑΛΑΚΙΑ",
+        "stop_code": 690031,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_690031",
+        "stop_street": "ΑΔΡΙΑΝΟΥ",
+        "longitude": 23.7742345,
+        "latitude": 38.0019511,
+        "municipality": "ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ"
+    },
+    {
+        "stop_id": 480029,
+        "stop_name": "2η ΠΟΛΥΔΡΟΣΟΥ",
+        "stop_code": 480029,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_480029",
+        "stop_street": "ΓΙΑΣΕΜΙΩΝ",
+        "longitude": 23.8055514,
+        "latitude": 38.0300189,
+        "municipality": "ΧΑΛΑΝΔΡΙΟΥ"
+    },
+    {
+        "stop_id": 480073,
+        "stop_name": "ΛΑΚΩΝΙΑΣ",
+        "stop_code": 480073,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_480073",
+        "stop_street": "ΟΛΥΜΠΟΥ",
+        "longitude": 23.8218324,
+        "latitude": 38.0307207,
+        "municipality": "ΧΑΛΑΝΔΡΙΟΥ"
+    },
+    {
+        "stop_id": 480083,
+        "stop_name": "ΟΤΕ",
+        "stop_code": 480083,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_480083",
+        "stop_street": "ΑΓ.ΓΕΩΡΓΙΟΥ",
+        "longitude": 23.8012539,
+        "latitude": 38.0222697,
+        "municipality": "ΧΑΛΑΝΔΡΙΟΥ"
+    },
+    {
+        "stop_id": 480116,
+        "stop_name": "ΑΡΚΑΔΙΑΣ",
+        "stop_code": 480116,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_480116",
+        "stop_street": "ΟΛΥΜΠΟΥ",
+        "longitude": 23.8207762,
+        "latitude": 38.029295,
+        "municipality": "ΧΑΛΑΝΔΡΙΟΥ"
+    },
+    {
+        "stop_id": 480142,
+        "stop_name": "ΑΡΔΗΤΤΟΥ",
+        "stop_code": 480142,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_480142",
+        "stop_street": "ΙΩΑΝΝΙΝΩΝ",
+        "longitude": 23.816965,
+        "latitude": 38.0269008,
+        "municipality": "ΧΑΛΑΝΔΡΙΟΥ"
+    },
+    {
+        "stop_id": 480164,
+        "stop_name": "1η ΑΠΟΣΤΟΛΟΠΟΥΛΟΥ",
+        "stop_code": 480164,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_480164",
+        "stop_street": "ΑΠΟΣΤΟΛΟΠΟΥΛΟΥ",
+        "longitude": 23.7878035,
+        "latitude": 38.0086819,
+        "municipality": "ΧΑΛΑΝΔΡΙΟΥ"
+    },
+    {
+        "stop_id": 480170,
+        "stop_name": "ΠΑΡΝΩΝΟΣ",
+        "stop_code": 480170,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_480170",
+        "stop_street": "ΜΕΤΑΜΟΡΦΩΣΕΩΣ",
+        "longitude": 23.8189322,
+        "latitude": 38.0285261,
+        "municipality": "ΧΑΛΑΝΔΡΙΟΥ"
+    },
+    {
+        "stop_id": 481179,
+        "stop_name": "ΕΛΙΚΩΝΟΣ",
+        "stop_code": 481179,
+        "stop_url": "http://telematics.oasa.gr/#stationInfo_481179",
+        "stop_street": "ΜΕΤΑΜΟΡΦΩΣΕΩΣ",
+        "longitude": 23.8171543,
+        "latitude": 38.0294469,
+        "municipality": "ΧΑΛΑΝΔΡΙΟΥ"
+    }
+]

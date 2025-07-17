@@ -1,0 +1,50 @@
+openapi: 3.0.3
+info:
+  version: x.x
+  title: propFinder
+  description: 'propFinder is a real-estate web application that demonstrates the sustainability in municipalities of metropolitan area of Athens, based on open data.'
+  contact:
+    name: API Support
+    email: dkarras@propfinder.site
+  license:
+    name: This data is made available under the Open Data Commons Open Database License (ODbL).
+    url: http://opendatacommons.org/licenses/odbl/
+servers:
+  - url: 'https://propfinder.site/api'
+    variables: {}
+tags:
+  - name: propFinder Application
+    description: ''
+  - name: Open Data
+    description: ''
+paths:
+  '/getFields/{field}':
+    $ref: '../src/resources/_index.yaml#/GetFields'
+  '/municipalities/{path_id}':
+    $ref: '../src/resources/_index.yaml#/MunicipalityGeneralInfo'
+  '/sustainability-results/{path_id}':
+    $ref: '../src/resources/_index.yaml#/SustainabilityResults'
+  '/municipality-results/{path_id}':
+    $ref: '../src/resources/_index.yaml#/MunicipalityResults'
+  # --------------------------------------------------------------------- #
+  '/fetchRealEstateData':
+    $ref: '../src/resources/_index.yaml#/RealEstateData'
+  '/fetchBankOfGreeceData':
+    $ref: '../src/resources/_index.yaml#/BankOfGreeceData'
+  '/fetchPopulationData':
+    $ref: '../src/resources/_index.yaml#/PopulationData'
+  '/fetchCriminalityData':
+     $ref: '../src/resources/_index.yaml#/CriminalityData'
+  '/fetchSchoolData':
+    $ref: '../src/resources/_index.yaml#/SchoolData'
+  '/fetchTransData':
+    $ref: '../src/resources/_index.yaml#/TransportationData'
+  '/fetchOtherData':
+    $ref: '../src/resources/_index.yaml#/OtherData'
+  '/fetchAirPollutionData':
+    $ref: '../src/resources/_index.yaml#/AirPollutionData'
+components:
+  securitySchemes:
+    basicAuth:
+      type: http
+      scheme: basic

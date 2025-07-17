@@ -1,0 +1,650 @@
+[
+    {
+        "name": "ΛΙΛΙΑΝ ΒΟΥΔΟΥΡΗ ΙΝΣΤΙΤΟΥΤΟ ΘΕΡΑΠΕΙΑΣ ΔΙΑ ΤΩΝ ΤΕΧΝΩΝ",
+        "address": "ΠΛΑΣΤΗΡΑ 29 ΚΑΙ ΣΟΥΡΗ 4 ΜΑΡΟΥΣΙ 15124",
+        "email": "info@ilv.gr",
+        "site": "https://lilianvoudouri.gr/ilv/to-institoyto/",
+        "phone": "2111827062-5",
+        "municipality": "ΑΜΑΡΟΥΣΙΟΥ"
+    },
+    {
+        "name": "ΟΜΙΛΟΣ UNESCO ΓΙΑ ΤΗΝ ΠΑΙΔΕΙΑ, ΤΙΣ ΕΠΙΣΤΗΜΕΣ, ΤΟΝ ΑΝΘΡΩΠΙΣΜΟ, ΤΟΝ ΠΟΛΙΤΙΣΜΟ ΒΟΡΕΙΩΝ ΠΡΟΑΣΤΙΩΝ – ΚΔΑΠ",
+        "address": "Λ. ΚΗΦΙΣΙΑΣ  100 & ΜΑΡΑΘΩΝΟΔΡΟΜΟΥ  83 ΜΑΡΟΥΣΙ",
+        "email": "kdapclubunescovp@gmail.com",
+        "site": "null",
+        "phone": "21 0614 0823",
+        "municipality": "ΑΜΑΡΟΥΣΙΟΥ"
+    },
+    {
+        "name": "15ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ ΑΜΑΡΟΥΣΙΟΥ",
+        "address": "ΜΑΚΡΥΓΙΑΝΝΗ & ΚΥΠΡΙΩΝ ΑΓΩΝΙΣΤΩΝ, ΜΑΡΟΥΣΙ",
+        "email": "null",
+        "site": "info@ehotidynami.gr",
+        "phone": "2102526000",
+        "municipality": "ΑΜΑΡΟΥΣΙΟΥ"
+    },
+    {
+        "name": "18ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ ΑΜΑΡΟΥΣΙΟΥ",
+        "address": "ΣΥΓΓΡΟΥ & ΙΩΝΟΣ,  ΜΑΡΟΥΣΙ 15126",
+        "email": "info@ehotidynami.gr",
+        "site": "null",
+        "phone": "2102526000",
+        "municipality": "ΑΜΑΡΟΥΣΙΟΥ"
+    },
+    {
+        "name": "1ο ΚΔΑΠ ΒΡΙΛΗΣΣΙΩΝ",
+        "address": "6ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ, ΟΛΥΜΠΟΥ-ΤΑΥΓΕΤΟΥ ΚΑΙ ΠΙΕΡΙΩΝ, ΒΡΙΛΗΣΣΙΑ15235",
+        "email": "kyriioan@yahoo.com",
+        "site": "http://6dim-vriliss.att.sch.gr/contact",
+        "phone": "210 - 8101510, 210-8101511",
+        "municipality": "ΒΡΙΛΗΣΣΙΩΝ"
+    },
+    {
+        "name": "ΤΑ ΣΑΙΝΙΑ",
+        "address": "Κουντουριώτου 28, Ν. Ηράκλειο",
+        "email": "kdapsainia@gmail.com",
+        "site": "null",
+        "phone": "6971571168",
+        "municipality": "ΗΡΑΚΛΕΙΟΥ"
+    },
+    {
+        "name": "1ο ΚΔΑΠ ΚΟΙΝΩΦΕΛΟΥΣ ΕΠΙΧΕΙΡΗΣΗΣ ΔΗΜΟΥ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+        "address": "ΚΟΤΤΟΥ 34 1ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ ΜΕΤΑΜΟΡΦΩΣΗΣ 14452",
+        "email": "pateli1975@yahoo.gr",
+        "site": "null",
+        "phone": "2102845008",
+        "municipality": "ΜΕΤΑΜΟΡΦΩΣΕΩΣ"
+    },
+    {
+        "name": "\"ΠΑΙΞΕ-ΜΑΘΕ-ΓΕΛΑΣΕ\"",
+        "address": "Αγ.Κωνσταντίνου & Ελενης & Παναγοπούλου 2, 17342, Αγ.Δημήτριος",
+        "email": "kdap@dad.gr",
+        "site": "null",
+        "phone": "2.132007708213201e+19",
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "name": "\"ΕΛΑ ΜΑΖΙ ΜΑΣ\"",
+        "address": "Σκοπέλου 39, 17341, Αγ,Δημήτριος",
+        "email": "kdap.elamazimas@gmail.com",
+        "site": "www.joysschool.gr",
+        "phone": "210-8841953,           210-8620569",
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "name": "\"STEAM CENTER\"",
+        "address": "ΑΓ. ΔΗΜΗΤΡΙΟΥ  49,17343, ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+        "email": "info@steamcenter.gr",
+        "site": "https://steamcenter.gr/",
+        "phone": "2152159900",
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "name": "ΕΛΑ ΜΑΖΙ ΜΑΣ",
+        "address": "ΚΟΡΥΤΣΑΣ 45         173 42  ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+        "email": "kdap.elamazimas@gmail.com",
+        "site": "null",
+        "phone": "210 9945475    694 5861583",
+        "municipality": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
+        "name": "' Κ.Δ.Α.Π. Δ ΑΛΙΜΟΥ \"",
+        "address": "ΜΥΡΟΓΙΑΝΝΗ & ΚΥΒΕΛΗΣ 4ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ ΑΛΙΜΟΥ",
+        "email": "kdap136@otenet.gr",
+        "site": "null",
+        "phone": "210-9931223",
+        "municipality": "ΑΛΙΜΟΥ"
+    },
+    {
+        "name": "ΚΔΑΠ Κ.ΚΑΛΑΜΑΚΙΟΥ Δ.ΑΛΙΜΟΥ",
+        "address": "Επονιτών 7, 17455, Άλιμος",
+        "email": "kdap136@otenet.gr",
+        "site": "null",
+        "phone": "210-9818877                    213-2008002",
+        "municipality": "ΑΛΙΜΟΥ"
+    },
+    {
+        "name": "\"HAPPY HOURS 4 KIDS\"",
+        "address": "Κωνσταντινουπόλεως 8, 16674, Γλυφάδα",
+        "email": "null",
+        "site": "http://www.happyhours4kids.gr/",
+        "phone": "6972425389",
+        "municipality": "ΓΛΥΦΑΔΑΣ"
+    },
+    {
+        "name": "'«ΠΑΙΧΝΙΔΙΖΕΙΝ»",
+        "address": "ΚΩΝΣΤ/ΠΟΛΕΩΣ 91  164 52 ΑΡΓΥΡΟΥΠΟΛΗ",
+        "email": "info@paixnidizein.gr",
+        "site": "www.paixnidizein.gr ",
+        "phone": "694 7413860",
+        "municipality": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+    },
+    {
+        "name": "\"ΜΙΚΡΟΣ ΠΡΙΓΚΗΠΑΣ\"",
+        "address": "Πεισιστράτου 60, Καλλιθλεα, 17675",
+        "email": "kedk@otenet.gr",
+        "site": "null",
+        "phone": "210-9430339210-9530161",
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "name": "\"ΜΙΚΡΟ ΚΑΡΑΒΙ\"",
+        "address": "Αθηνάς 87,Καλλιθέα, 17673",
+        "email": "kedk@otenet.gr",
+        "site": "null",
+        "phone": "210-9423902,         210-9590626,               210-9580241",
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "name": "\"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\" (ΔΕ ΛΕΙΤΟΥΡΓΕΙ)",
+        "address": "ΟΠΑΑ \"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\" ΣΩΚΡΑΤΟΥΣ 22 & ΛΥΣΙΚΡΑΤΟΥΣ ΚΑΛΛΙΘΕΑ, ΤΚ 17671",
+        "email": "kallitheasports@gmail.com",
+        "site": "null",
+        "phone": "2.109521410210958e+19",
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "name": "\"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\" (ΔΕ ΛΕΙΤΟΥΡΓΕΙ)",
+        "address": "ΟΠΑΑ \"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\" ΚΡΕΜΟΥ 43, ΚΑΛΛΙΘΕΑ, ΤΚ 17676",
+        "email": "kallitheasports@gmail.com",
+        "site": "null",
+        "phone": "2109521410",
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "name": "\"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\"",
+        "address": "ΟΠΑΑ \"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\" ΑΙΓΕΩΣ 41-43 & ΑΓΗΣΙΛΑΟΥ, ΚΑΛΛΙΘΕΑ, ΤΚ 17675",
+        "email": "kallitheasports@gmail.com",
+        "site": "null",
+        "phone": "2109521410",
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "name": "\"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\"",
+        "address": "ΟΠΑΑ \"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\" ΑΙΓΕΩΣ 41-43 & ΑΓΗΣΙΛΑΟΥ, ΚΑΛΛΙΘΕΑ, ΤΚ 17675",
+        "email": "kallitheasports@gmail.com",
+        "site": "null",
+        "phone": "2109521410",
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "name": "\"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\"",
+        "address": "ΟΠΑΑ \"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\" ΦΟΡΝΕΖΗ 31, ΚΑΛΛΙΘΕΑ, ΤΚ 17675",
+        "email": "kallitheasports@gmail.com",
+        "site": "null",
+        "phone": "2109521410",
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "name": "\"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\"",
+        "address": "ΟΠΑΑ \"ΓΙΑΝΝΗΣ ΓΑΛΛΟΣ\" ΛΑΣΚΑΡΙΔΟΥ 37, ΚΑΛΛΙΘΕΑ, ΤΚ 17676",
+        "email": "kallitheasports@gmail.com",
+        "site": "null",
+        "phone": "2109521410",
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "name": "\"ΜΙΚΡΟΚΟΣΜΟΣ\"",
+        "address": "ΓΡΥΠΑΡΗ 131,  176 72  ΚΑΛΛΙΘΕΑ",
+        "email": "info@kentro-mikrokosmos.gr.,  geotsi_hotmail.com",
+        "site": "null",
+        "phone": "213 0369006",
+        "municipality": "ΚΑΛΛΙΘΕΑΣ"
+    },
+    {
+        "name": "' ΑΠΟΣΤΟΛΗ '', ΝΕΟΣ ΔΙΑΚΡΙΤΙΚΟΣ ΤΙΤΛΟΣ: \"ΔΗΜΗΤΡΕΙΟΝ\"",
+        "address": "Αγ.Κωνσταντίνου 7, Μοσχάτο, 18344",
+        "email": "info@mkoapostoli.gr",
+        "site": "www.mkoapostoli.com",
+        "phone": "213-0184400",
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "name": "3ο   ΚΔΑΠ ΤΑΥΡΟΥ",
+        "address": "Τσακάλωφ 9, Ταύρος, 17778",
+        "email": "info@kedmt.gr depae_07@otenet.gr",
+        "site": "www.kedmt.gr",
+        "phone": "210-4834614",
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "name": "ΚΔΑΠ ΚΑΜΑΤΕΡΟΥ",
+        "address": "Κ.ΠΑΛΑΜΑ, ΓΟΥΝΑΡΗ, ΚΑΡΑΟΛΗ 13451 ( ΣΥΣΤΕΓΑΖΕΤΑΙ 6ο-7ο ΝΗΠΙΑΓΩΓΕΙΟ ΚΑΜΑΤΕΡΟΥ)",
+        "email": "agankam@agankam.gov.gr",
+        "site": "https://agan.gov.gr",
+        "phone": "210-2322422",
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "name": "ΚΔΑΠ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+        "address": "ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ 40 ΑΓΙΟΙ ΑΝΑΡΓΥΡΟΙ 13562",
+        "email": "agankam@agankam.gov.gr",
+        "site": "https://agan.gov.gr",
+        "phone": "210-2610616",
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "name": "1ο ΚΔΑΠ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ- ΚΑΜΑΤΕΡΟΥ",
+        "address": "ΓΡ. ΛΑΜΠΡΑΚΗ ΚΑΙ ΘΕΣΣΑΛΟΝΙΚΗΣ ΚΑΜΑΤΕΡΟ  ΤΚ 13451 (2ο δημοτ σχολείο Αγίων Αναργύρων -Καματερού)",
+        "email": "agankam@agankam.gov.gr dimarxos@agankam.gov.gr",
+        "site": "null",
+        "phone": "null",
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "name": "2ο ΚΔΑΠ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ -ΚΑΜΑΤΕΡΟΥ",
+        "address": "ΠΑΡΑΜΥΘΙΑΣ 2, ΚΑΜΑΤΕΡΟ. ΤΚ. 13451",
+        "email": "agankam@agankam.gov.gr dimarxos@agankam.gov.gr",
+        "site": "null",
+        "phone": "2132023680",
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "name": "3ο ΚΔΑΠ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ -ΚΑΜΑΤΕΡΟΥ",
+        "address": "ΜΑΚΕΔΟΝΙΑΣ 32, ΚΑΜΑΤΕΡΟ ΤΚ 13451",
+        "email": "agankam@agankam.gov.gr  dimarxos@agankam.gov.gr",
+        "site": "null",
+        "phone": "2122023680",
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "name": "ΚΙΒΩΤΟΣ ΤΟΥ ΚΟΣΜΟΥ",
+        "address": "ΚΑΛΛΙΚΛΕΟΥΣ ΚΑΙ ΖΗΝΟΔΩΡΟΥ 3, Τ.Κ  10442 ΑΘΗΝΑ",
+        "email": "info@kivotostoukosmou.gr",
+        "site": "www.kivotostoukosmou.org",
+        "phone": "210-5141935",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "ΚΔΑΠ ΚΑΤΩ ΠΕΤΡΑΛΩΝΩΝ",
+        "address": "ΑΛΚΙΦΡΟΝΟΣ 51-55, Τ.Κ                            11853 ΑΘΗΝΑ",
+        "email": "m.iliopoulou@athens.gr",
+        "site": "www.cityofathens.gr",
+        "phone": "210-5277087",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "ΚΔΑΠ ΠΛΑΤΕΙΑΣ ΑΤΤΙΚΗΣ",
+        "address": "ΥΓΕΙΑΣ 11Α, Τ.Κ                                              10446 ΑΘΗΝΑ",
+        "email": "m.iliopoulou@athens.gr",
+        "site": "www.cityofathens.gr",
+        "phone": "210-5277087",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "ΚΔΑΠ ΣΕΠΟΛΙΩΝ",
+        "address": "ΚΑΛΑΜΑ 2 & ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, Τ.Κ                 10443 ΑΘΗΝΑ",
+        "email": "m.iliopoulou@athens.gr",
+        "site": "www.cityofathens.gr",
+        "phone": "210-5277087",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "ΚΔΑΠ ΑΓΙΟΥ ΑΡΤΕΜΙΟΥ",
+        "address": "ΒΑΘΥΚΛΕΟΥΣ, ΑΜΦΙΚΡΑΤΟΥΣ,ΗΛΙΑΔΟΣ  ΚΑΙ ΑΝΑΞΑΡΧΟΥ, Τ.Κ                                          11631 ΑΘΗΝΑ",
+        "email": "m.iliopoulou@athens.gr",
+        "site": "www.cityofathens.gr",
+        "phone": "210-5277087",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "ΚΔΑΠ ΕΞΑΡΧΕΙΩΝ",
+        "address": "ΙΟΥΣΤΙΝΙΑΝΟΥ 30-34,ΨΕΛΛΟΥ,ΠΟΥΛΧΕΡΙΑΣ ΚΑΙ ΕΙΡΗΝΗΣ ΑΘΗΝΑΙΑΣ, Τ.Κ                          11473 ΑΘΗΝΑ",
+        "email": "m.iliopoulou@athens.gr",
+        "site": "www.cityofathens.gr",
+        "phone": "210-5277087",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "ΚΔΑΠ ΛΕΥΚΕΣ ΚΑΡΔΟΥΛΕΣ",
+        "address": "ΠΕΙΣΙΣΤΡΑΤΟΥ 6  Τ.Κ 10445 ΑΘΗΝΑ",
+        "email": "leukeskardoules.gr@gmail.com",
+        "site": "http://www.leukeskardoules.gr/",
+        "phone": " 21 0822 6523",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "HOUSE OF KIDS I.K.E",
+        "address": "MΙΚΡΑΣ ΑΣΙΑΣ 17 & ΚΑΙΣΑΡΕΙΑΣ ΑΘΗΝΑ 11527",
+        "email": "kdapathens@gmail.com",
+        "site": "null",
+        "phone": "2107798018",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "ΠΑΙΔΑΚΙΑ ΠΑΙΔΑΚΙΑ",
+        "address": "ΑΓΙΟΥ ΓΕΡΑΣΙΜΟΥ 28 ΖΩΓΡΑΦΟΥ ΤΚ 15771",
+        "email": "info@paidakiakdap.com",
+        "site": "null",
+        "phone": "21 1735 6817",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "ΚΟΝΤΟΡΕΒΙΘΟΥΛΗΣ",
+        "address": "ΔΑΦΝΙΔΟΣ 41 ΑΘΗΝΑ  113 64",
+        "email": "null",
+        "site": "null",
+        "phone": "21 0867 6993",
+        "municipality": "ΑΘΗΝΑΙΩΝ"
+    },
+    {
+        "name": "ΖΩΗΡΟΥΠΟΛΗ",
+        "address": "ΕΛΕΥΘΕΡΙΟΥ ΒΕΝΙΖΕΛΟΥ 18-20 ΓΑΛΑΤΣΙ",
+        "email": "info@zoiroupoli.gr",
+        "site": "www.zoiroupoli.gr",
+        "phone": "211 1191897",
+        "municipality": "ΓΑΛΑΤΣΙΟΥ"
+    },
+    {
+        "name": "PLAYGRAMM O.E.",
+        "address": "ΠΡΩΤΟΠΑΠΑΔΑΚΗ 19, ΓΑΛΑΤΣΙ ΤΚ 11147",
+        "email": "info@playgramm.gr",
+        "site": "https://www.playgramm.gr/",
+        "phone": "694 51 09 746 - 694 51 09 739 (για εγγραφές)",
+        "municipality": "ΓΑΛΑΤΣΙΟΥ"
+    },
+    {
+        "name": "1ο ΚΔΑΠ ΜΟΣΧΑΤΟΥ",
+        "address": "Θερμοπυλών 8 & Πίνδου, 18345, Μοσχάτο",
+        "email": "info@kedmt.gr depae_07@otenet.gr",
+        "site": "www.kedmt.gr",
+        "phone": "210-4834614",
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "name": "2ο ΚΔΑΠ ΜΟΣΧΑΤΟΥ",
+        "address": "Χειμάρας & Πλάτωνος 174, 18345, Μοσχάτο",
+        "email": "info@kedmt.gr depae_07@otenet.gr",
+        "site": "www.kedmt.gr",
+        "phone": "210-4834614",
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "name": "\"ΤΑ ΠΡΩΤΑ ΧΡΟΝΙΑ\"",
+        "address": "Χρ.Σμύρνης 91, 18345, Μοσχάτο",
+        "email": "taprotaxronia@gmail.com",
+        "site": "www.taprotaxronia.gr",
+        "phone": "210-4816009",
+        "municipality": "ΜΟΣΧΑΤΟΥ-ΤΑΥΡΟΥ"
+    },
+    {
+        "name": "1ο ΚΔΑΠ Ν.ΣΜΥΡΝΗΣ",
+        "address": "Ευξεινου Πόντου & Αγ.Σαράντα ,17341, Ν.Σμύρνης",
+        "email": "nskdap123@gmail.com",
+        "site": "www.kdapns.com",
+        "phone": "213-2025831          213-2025833                213-2025851",
+        "municipality": "ΝΕΑΣ ΣΜΥΡΝΗΣ"
+    },
+    {
+        "name": "2ο ΚΔΑΠ Ν.ΣΜΥΡΝΗΣ",
+        "address": "Παρασκευοπούλου 37-39, 17122, Ν.Σμυρνη",
+        "email": "nskdap123@gmail.com",
+        "site": "www.kdapns.com",
+        "phone": "213-2025851",
+        "municipality": "ΝΕΑΣ ΣΜΥΡΝΗΣ"
+    },
+    {
+        "name": "3ο ΚΔΑΠ Ν.ΣΜΥΡΝΗΣ",
+        "address": "Κράτητος & Αποστολάκη, 17121, Ν.Σμύρνη",
+        "email": "nskdap123@gmail.com",
+        "site": "www.kdapns.com",
+        "phone": "213-2025851",
+        "municipality": "ΝΕΑΣ ΣΜΥΡΝΗΣ"
+    },
+    {
+        "name": "1ο ΚΔΑΠ ΠΑΛ.ΦΑΛΗΡΟΥ",
+        "address": "Μενάνδρου 9& Πυθαγόρα, 17563, Π.Φαλήρο",
+        "email": "null",
+        "site": "null",
+        "phone": "2132020300",
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "name": "ΚΔΑΠ ΥΜΗΤΤΟΥ",
+        "address": "ΥΨΗΛΑΝΤΟΥ 5, Τ.Κ. 17236, ΥΜΗΤΤΟΣ",
+        "email": "opady@dafni-ymittos.gov.gr",
+        "site": "https://www.dafni-ymittos.gov.gr/",
+        "phone": "210-9707681",
+        "municipality": "ΔΑΦΝΗΣ-ΥΜΗΤΤΟΥ"
+    },
+    {
+        "name": "ΖΩΓΡΑΦΟΚΗΠΟΣ",
+        "address": "ΤΡΑΥΛΑΝΤΩΝΗ 53  ΜΑΙΚΗΝΑ & ΑΝΤΩΝΙΟΥ  ΤΚ 15773 ΖΩΓΡΑΦΟΥ",
+        "email": "dhm969@otenet.gr vilaninou@zografou.gr",
+        "site": "www.zografou.gov.gr",
+        "phone": "210-7485106",
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "name": "2ο ΚΔΑΠ ΠΑΛ.ΦΑΛΗΡΟΥ",
+        "address": "Ζέφυρου 20,17564, Π.Φάληρο",
+        "email": "null",
+        "site": "null",
+        "phone": "2132020300",
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "name": "4ο ΚΔΑΠ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ-ΚΑΜΑΤΕΡΟΥ",
+        "address": "ΣΠΑΡΤΗΣ 2 ΚΑΙ ΛΥΚΟΥΡΓΟΥ, ΑΓΙΟΙ ΑΝΑΡΓΥΡΟΙ, ΤΚ 13451 (6ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ -ΚΑΜΑΤΕΡΟΥ)",
+        "email": "agankam@agankam.gov.gr  dimarxos@agankam.gov.gr",
+        "site": "null",
+        "phone": "2122023680",
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "name": "5ο ΚΔΑΠ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ -ΚΑΜΑΤΕΡΟΥ",
+        "address": "ΕΒΡΟΥ-ΚΑΒΑΛΑΣ-ΘΡΑΚΗΣ & ΛΕΩΦ ΔΗΜΟΚΡΑΤΙΑΣ , ΚΑΜΑΤΕΡΟ ΤΚ 13562",
+        "email": "agankam@agankam.gov.gr  dimarxos@agankam.gov.gr",
+        "site": "null",
+        "phone": "2132023680",
+        "municipality": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ"
+    },
+    {
+        "name": "ΟΝΕΙΡΟΠΑΓΙΔΑ",
+        "address": "ΣΤΕΦΑΝΟΥ ΣΑΡΑΦΗ 23Α & Ρ.ΦΕΡΑΙΟΥ ΑΙΓΑΛΕΩ ΤΚ 12241",
+        "email": "info@oniropagidaschool.gr  piarasargiris@gmail.com",
+        "site": "null",
+        "phone": "2105902792",
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "name": "ΚΔΑΠ ΑΙΓΑΛΕΩ ΓΡΑΒΑΝΗΣ",
+        "address": "ΝΙΚΟΛΑΟΥ ΠΛΑΣΤΗΡΑ 37 ΑΙΓΑΛΕΩ ΤΚ 12242",
+        "email": "info@kdapegaleo.gr",
+        "site": "null",
+        "phone": "2114110387",
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "name": "1ο ΚΔΑΠ ΔΗΜΟΥ ΑΙΓΑΛΕΩ",
+        "address": "ΜΗΤΡΟΠΟΛΙΤΗ ΓΡΗΓΟΡΙΟΥ ΚΥΔΩΝΙΩΝ 30 ΑΙΓΑΛΕΩ ΤΚ 12241",
+        "email": "egaleo@egaleo.gr",
+        "site": "null",
+        "phone": "2132023680",
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "name": "2ο ΚΔΑΠ ΔΗΜΟΥ ΑΙΓΑΛΕΩ",
+        "address": "ΑΓ. ΣΠΥΡΙΔΩΝΟΣ & ΥΠΟΛΟΧΑΓΟΥ ΜΗΛΙΩΝΗ Γ΄ ΑΙΓΑΛΕΩ ΤΚ 12243",
+        "email": "egaleo@egaleo.gr",
+        "site": "null",
+        "phone": "2132023680",
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "name": "3ο ΚΔΑΠ ΔΗΜΟΥ ΑΙΓΑΛΕΩ",
+        "address": "ΚΑΠΟΔΙΣΤΡΙΟΥ 28, ΑΙΓΑΛΕΩ ΤΚ. 12241",
+        "email": "kdapegaleo@gmail.com  grafeio.paideias@yahoo.gr",
+        "site": "null",
+        "phone": "2132 044850",
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "name": "4ο ΚΔΑΠ ΔΗΜΟΥ ΑΙΓΑΛΕΩ",
+        "address": "Αγίου Σπυρίδωνος & Υπολοχαγού Μηλιώνη Γ., Αιγάλεω, 12243, ΑΤΤΙΚΗΣ",
+        "email": "kdapegaleo@gmail.com  grafeio.paideias@yahoo.gr",
+        "site": "null",
+        "phone": "2133 044850",
+        "municipality": "ΑΙΓΑΛΕΩ"
+    },
+    {
+        "name": "ΚΔΑΠ DREAM LAB",
+        "address": "ΝΕΣΤΟΡΟΣ 125 ΚΑΙ ΦΙΛΟΚΤΗΤΟΥ ΤΚ 13122 ΙΛΙΟΝ",
+        "email": "haravour@yahoo.gr",
+        "site": "null",
+        "phone": "null",
+        "municipality": "ΙΛΙΟΥ (ΝΕΩΝ ΛΙΟΣΙΩΝ)"
+    },
+    {
+        "name": "Η ΑΥΛΗ ΤΩΝ ΧΡΩΜΑΤΩΝ",
+        "address": "ΑΧΙΛΛΕΩΣ 51, ΙΛΙΟΝ (ΠΛΑΤΕΙΑ ΡΙΜΙΝΙ) ΤΚ. 13122",
+        "email": "info@avlixromaton.gr",
+        "site": "null",
+        "phone": "2102696445",
+        "municipality": "ΙΛΙΟΥ (ΝΕΩΝ ΛΙΟΣΙΩΝ)"
+    },
+    {
+        "name": "ΚΔΑΠ ΔΕΠΑΔΠ ΔΗΜΟΥ ΠΕΡΙΣΤΕΡΙΟΥ",
+        "address": "ΚΑΡΙΤΑΙΝΗΣ & ΚΡΥΣΤΑΛΛΗ 53 -12131 ΠΕΡΙΣΤΕΡΙ",
+        "email": "ddy@peristeri.gr",
+        "site": "http://www.peristeri.gr",
+        "phone": "210-5779914                210-5733338",
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "name": "KID'S ACADEMY",
+        "address": "ΜΕΣΟΛΟΓΓΙΟΥ 87 ΚΑΙ ΜΙΛΤΙΑΔΟΥ 13-15 ΠΕΡΙΣΤΕΡΙ 12134",
+        "email": "info@pediki-acadimia.gr kdap.ka@gmail.com",
+        "site": "null",
+        "phone": "210-5711527",
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "name": "2ο ΚΔΑΠ ΚΟΙΝΩΦΕΛΟΥΣ ΕΠΙΧΕΙΡΗΣΗΣ ΔΗΜΟΥ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+        "address": "ΑΘΗΝΑΣ-ΑΥΛΩΝΟΣ- ΣΑΜΟΥ ΑΠΟΛΛΩΝΟΣ 4ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ , ΜΕΤΑΜΟΡΦΩΣΗ 14451",
+        "email": "pateli1975@yahoo.gr",
+        "site": "null",
+        "phone": "2102845008",
+        "municipality": "ΜΕΤΑΜΟΡΦΩΣΕΩΣ"
+    },
+    {
+        "name": "ΒΥΣΣΙΝΟΚΗΠΟΣ",
+        "address": "ΑΡΓΥΡΟΚΑΣΤΡΟΥ & 34ου ΣΥΝΤΑΓΜΑΤΟΣ, Τ.Κ 15773 ΖΩΓΡΑΦΟΥ",
+        "email": "dhm969@otenet.gr vilaninou@zografou.gr",
+        "site": "www.zografou.gov.gr",
+        "phone": "210-7485904",
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "name": "ΑΕΡΟΣΤΑΤΟ",
+        "address": "Ν. ΖΕΡΒΑ 11- ΒΑΚΤΗΡΙΑΝΗΣ 94, Τ.Κ   15772 ΖΩΓΡΑΦΟΥ",
+        "email": "dhm969@otenet.gr vilaninou@zografou.gr",
+        "site": "www.zografou.gov.gr",
+        "phone": "210-7487915",
+        "municipality": "ΖΩΓΡΑΦΟΥ"
+    },
+    {
+        "name": "ΔΡΑΣΕΙΣ ΕΝ ΑΣΤΥ ΙΚΕ",
+        "address": "ΠΕΛΟΠΙΔΑ 85 ΠΕΡΙΣΤΕΡΙ, ΤΚ 12136",
+        "email": "draseisenasty@gmail.com",
+        "site": "null",
+        "phone": "2103310016",
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "name": "ΚΔΑΠ ΑΝΘΟΥΠΟΛΗΣ",
+        "address": "Πεισάνδρου 20 ΠΕΡΙΣΤΕΡΙ ΤΚ 12135",
+        "email": "null",
+        "site": "null",
+        "phone": "210-5748638",
+        "municipality": "ΠΕΡΙΣΤΕΡΙΟΥ"
+    },
+    {
+        "name": "1ο ΚΔΑΠ -ΚΟΙΝΩΦΕΛΗΣ ΕΠΙΧΕΙΡΗΣΗ ΔΗΜΟΥ ΧΑΙΔΑΡΙΟΥ",
+        "address": "ΤΕΡΜΑ ΜΕΛΙΤΑΣ ΚΑΙ ΡΙΜΙΝΙ ΧΑΪΔΑΡΙ 12461 (ΣΥΣΤΕΓΑΖΕΤΑΙ 10ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ)",
+        "email": "null",
+        "site": "http://www.kedx.gr",
+        "phone": "210-5818225",
+        "municipality": "ΧΑΙΔΑΡΙΟΥ"
+    },
+    {
+        "name": "3ο ΚΔΑΠ ΠΑΛ.ΦΑΛΗΡΟΥ",
+        "address": "Ναϊάδων 39, 17561, Π.Φάληρο",
+        "email": "null",
+        "site": "null",
+        "phone": "2132020300",
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "name": "4ο ΚΔΑΠ ΠΑΛ.ΦΑΛΗΡΟΥ",
+        "address": "Βυρ.Βέρρα 3 & Ανδρομάχης, 17564, Π.Φάληρο",
+        "email": "null",
+        "site": "null",
+        "phone": "2132020300",
+        "municipality": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ"
+    },
+    {
+        "name": "3ο ΚΔΑΠ ΚΟΙΝΩΦΕΛΟΥΣ ΕΠΙΧΕΙΡΗΣΗ ΔΗΜΟΥ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+        "address": "ΕΡΜΟΥ ΚΑΙ ΘΕΟΤΟΚΟΠΟΥΛΟΥ 5ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ ΜΕΤΑΜΟΡΦΩΣΗΣ 14455",
+        "email": "pateli1975@yahoo.gr",
+        "site": "null",
+        "phone": "2102845008",
+        "municipality": "ΜΕΤΑΜΟΡΦΩΣΕΩΣ"
+    },
+    {
+        "name": "\"GINA PLAY AND MUSIC\"",
+        "address": "MAKΕΔΟΝΟΜΑΧΩΝ 3 ΚΑΙ ΡΟΥΜΕΛΗΣ ΝΕΑ ΙΩΝΙΑ 14235",
+        "email": "info@ginaparty.gr    peptzima@yahoo.gr",
+        "site": "ginaplaymusic.gr",
+        "phone": "6958619452",
+        "municipality": "ΝΕΑΣ ΙΩΝΙΑΣ"
+    },
+    {
+        "name": "2o ΚΔΑΠ-ΚΟΙΝΩΦΕΛΗΣ ΕΠΙΧΕΙΡΗΣΗ ΔΗΜΟΥ ΧΑΙΔΑΡΙΟΥ",
+        "address": "ΙΕΡΑ ΟΔΟΣ & ΠΕΡΡΑΙΒΟΥ 8, 12461 (2 ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ) ΧΑΙΔΑΡΙ",
+        "email": "null",
+        "site": "http://www.kedx.gr",
+        "phone": "213-2047360",
+        "municipality": "ΧΑΙΔΑΡΙΟΥ"
+    },
+    {
+        "name": "ΤΟ ΠΑΙΔΙΚΟ ΣΤΕΚΙ",
+        "address": "ΜΑΡΙΝΟΥ ΑΝΤΥΠΑ 135 &ΠΛ. ΑΙΝΣΤΑΙΝ 1, Τ.Κ16345 ΗΛΙΟΥΠΟΛΗ",
+        "email": "kdapilioupolis@gmail.com",
+        "site": "www.euroidea.gr",
+        "phone": "210-9911115",
+        "municipality": "ΗΛΙΟΥΠΟΛΕΩΣ"
+    },
+    {
+        "name": "SNEEK PEEK",
+        "address": "ΒΟΥΛΙΑΓΜΕΝΗΣ 553 ΗΛΙΟΥΠΟΛΗ ΤΚ 16341",
+        "email": "sneakpeekartplay@gmail.com",
+        "site": "www.sneakpeek.gr",
+        "phone": "21 1401 7453",
+        "municipality": "ΗΛΙΟΥΠΟΛΕΩΣ"
+    },
+    {
+        "name": "1ο Δημοτικό Σχολείο Μελισσίων",
+        "address": "Θερμοπυλών 4, ΜΕΛΙΣΣΙΑ",
+        "email": "karipidou@melissia.gr",
+        "site": "null",
+        "phone": "210 8100884 εσωτ. #24",
+        "municipality": "ΠΕΝΤΕΛΗΣ"
+    },
+    {
+        "name": "1ο Δημοτικό Σχολείο Δήμου Πεντέλης",
+        "address": "Μακρυγιάννη 4, ΠΕΝΤΕΛΗ",
+        "email": "kdappentelis@gmail.com",
+        "site": "null",
+        "phone": "213 2050007",
+        "municipality": "ΠΕΝΤΕΛΗΣ"
+    },
+    {
+        "name": "Ο ΚΗΠΟΣ ΤΩΝ ΠΑΙΔΙΩΝ",
+        "address": "ΕΡΙΦΥΛΗΣ 31, ΧΑΛΑΝΔΡΙ 15232",
+        "email": "stavpetsa@yahoo.gr",
+        "site": "https://www.thechildrensgardenathens.com/",
+        "phone": "2106080884",
+        "municipality": "ΧΑΛΑΝΔΡΙΟΥ"
+    }
+]

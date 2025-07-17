@@ -1,0 +1,7 @@
+name: employee
+in: path
+description: The id of the employee
+required: true
+style: simple
+schema:
+  type: integer

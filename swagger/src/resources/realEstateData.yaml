@@ -1,0 +1,57 @@
+get:
+  tags:
+    - Open Data
+  summary: Returns objective value of properties.
+  description: Returns all the real estate data from the database. Data derived from Ministry of Finance in conjunction with the information from the Bank of Greece.
+  operationId: GetRealEstateData
+  parameters:
+    - name: year
+      in: query
+      required: true
+      description: ''
+      style: form
+      explode: true
+      schema:
+        type: string
+        example: 2010
+  security: []
+  responses:
+    '200':
+      description: OK
+      content:
+        application/json:
+          schema:
+            type: object
+            example: {
+              "success" : true,
+              "data" : {
+                "headers": [
+                  "Δήμος",
+                  "Τομέας",
+                  "Τιμή (€/τ.μ.)"
+                ],
+                "values": [
+                  {
+                    "municipality": "Αθηναίων",
+                    "sector": "Κεντρικός Τομέας",
+                    "apartment_price": "3973.660"
+                  },
+                  {
+                    "municipality": "Δάφνης - Υμηττού",
+                    "sector": "Κεντρικός Τομέας",
+                    "apartment_price": "2253.790"
+                  },
+                  {
+                    "municipality": "Ηλιουπόλεως",
+                    "sector": "Κεντρικός Τομέας",
+                    "apartment_price": "1861.130"
+                  },
+                  {
+                    "municipality": "Βύρωνος",
+                    "sector": "Κεντρικός Τομέας",
+                    "apartment_price": "1644.970"
+                  },
+                ]
+              }
+            }
+  deprecated: false

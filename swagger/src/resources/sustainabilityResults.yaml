@@ -1,0 +1,69 @@
+post:
+  tags:
+    - propFinder Application
+  summary: ''
+  description: Returns the indexes results the employee had chosen in conjunction with the final sustainability results.
+  operationId: SustainabilityResults
+  parameters:
+    - name: path_id
+      in: path
+      description: The municipality's path Id
+      required: true
+      style: simple
+      schema:
+        type: string
+        example: 'path3900'
+  security: []
+  requestBody:
+    content:
+      application/x-www-form-urlencoded:
+        schema:
+          type: object
+          properties:
+            formData:
+              type: string
+              description: JSON (Indexes with their current weights)
+              example: "{\"population\":0.4,\"pollution\":0.4,\"preSchool\":0.2,\"realEstate\":1}"
+    required: true
+  responses:
+    '200':
+      description: OK
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              success:
+                type: boolean
+              data:
+                type: array
+                items:
+                  type: object
+                example: [
+                  {
+                    "title": "Πληθυσμός",
+                    "score": "0.35",
+                    "percentage": 7
+                  },
+                  {
+                    "title": "Ατμοσφαιρική ρύπανση",
+                    "score": 4.16,
+                    "percentage": 83.2
+                  },
+                  {
+                    "title": "Νηπιαγωγεία",
+                    "score": "4.65",
+                    "percentage": 93.0
+                  },
+                  {
+                    "title": "Ακίνητα",
+                    "score": "1.88",
+                    "percentage": 37.6
+                  },
+                  {
+                    "title": "Δείκτης Βιωσιμότητας",
+                    "score": "2.31",
+                    "percentage": 46.2
+                  }
+                ]
+  deprecated: false
